@@ -1,0 +1,13 @@
+name = "Sodium Crash Fix"
+filename = "Sodium-Fix-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jg6Hhgf5/versions/1.0.2/Sodium-Fix-1.0.2.jar"
+hash-format = "sha1"
+hash = "28fcc692738c93082906c397b7815a143771981f"
+
+[update]
+[update.modrinth]
+mod-id = "jg6Hhgf5"
+version = "wUKJhAx0"

@@ -1,0 +1,13 @@
+name = "Calc"
+filename = "calcmod-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XoHTb2Ap/versions/1.1.0/calcmod-1.1.0.jar"
+hash-format = "sha1"
+hash = "3761c7598723f34ad438865d8db58d649b079406"
+
+[update]
+[update.modrinth]
+mod-id = "XoHTb2Ap"
+version = "tNIJLQ0s"

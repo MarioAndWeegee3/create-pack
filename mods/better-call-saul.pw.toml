@@ -1,0 +1,13 @@
+name = "Better Call Saul"
+filename = "bettercallsaul-mod-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "00e7862deb271a745268bbf08084bb32f52fcd47"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4027460
+project-id = 666586

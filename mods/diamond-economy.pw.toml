@@ -1,0 +1,13 @@
+name = "Diamond Economy"
+filename = "diamondeconomy-1.5.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/2kJPGlnV/versions/LnQ2WBRk/diamondeconomy-1.5.4.jar"
+hash-format = "sha1"
+hash = "8e2bb7d66c3a0394d85b034740818533bf97f82d"
+
+[update]
+[update.modrinth]
+mod-id = "2kJPGlnV"
+version = "LnQ2WBRk"

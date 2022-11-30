@@ -1,0 +1,13 @@
+name = "Telepistons"
+filename = "telepistons-1.1.3-1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/23PBx0DP/versions/ANN5lsNv/telepistons-1.1.3-1.19.jar"
+hash-format = "sha1"
+hash = "b1dc661e1916c310d7ad68e43b75b0ced1b2006e"
+
+[update]
+[update.modrinth]
+mod-id = "23PBx0DP"
+version = "ANN5lsNv"

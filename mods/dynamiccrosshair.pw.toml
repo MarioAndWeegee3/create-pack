@@ -1,0 +1,13 @@
+name = "Dynamic Crosshair"
+filename = "dynamiccrosshair-3.11+1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZcR9weSm/versions/hBz2RX9S/dynamiccrosshair-3.11%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "3ba407de2f5b6d0be5ed42713dfaf36626c39c0f"
+
+[update]
+[update.modrinth]
+mod-id = "ZcR9weSm"
+version = "hBz2RX9S"
