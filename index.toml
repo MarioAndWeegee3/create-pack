@@ -983,11 +983,6 @@ hash = "6f46cfcca55777b06ce0bf646a815aed4fbc4eb19e21e055a8e6528e41397278"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-trades.pw.toml"
-hash = "2e2e572b27d72c75407f1d58486284bd689a6049f7db07b4d2e47b4d20542ff1"
-metafile = true
-
-[[files]]
 file = "mods/silkspawners.pw.toml"
 hash = "572b136f55eadaf9d62cfc62b761a24587a9fb43a52002a175657df2dfebb005"
 metafile = true
