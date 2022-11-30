@@ -197,6 +197,10 @@ file = "config/diamondeconomy.json5"
 hash = "8ea27c1e63700cbb201b67d596138230c758e75cf6b90a83092a5fbfae8f6cd8"
 
 [[files]]
+file = "config/fallingtree.json"
+hash = "aa295683ba9e977caa83385868e78f76692bcee6d5a5dc7f88c051cc84d2e4b9"
+
+[[files]]
 file = "config/freecam.json5"
 hash = "bce1fa7c1ca0c8dd0499918f1380c16bdb00f3a679bb0a412b30d22704178d7f"
 
