@@ -1,6 +1,6 @@
 name = "Diamond Chest Shops"
 filename = "diamondchestshop-1.2.4-1.19.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/a41MapF1/versions/9qKXrPNr/diamondchestshop-1.2.4-1.19.jar"

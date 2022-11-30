@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
+hash = "a383deeb916082c57a3e55979f9609531b407011ef8c149a19d9c0ef75e41d49"
 metafile = true
 
 [[files]]
@@ -314,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-safe-bed.pw.toml"
-hash = "067ce28d816f9ecf8796dea0cb3ab4734683cd7ee0e80fa524af217c4c1ce381"
+hash = "f748d17f47bec1c6f8f476946fbe2fa21e442f3adf6621c36c4d2bdbedb3f89f"
 metafile = true
 
 [[files]]
@@ -434,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/convenient-mobgriefing.pw.toml"
-hash = "7568634b341040d1cf113179e16def7e685ee8d43663699c768401d25c979ad7"
+hash = "bddd7fe200c51c8205529c1e2e13a3fa9099b69dc8b27e30fa97df0b8e6e36d0"
 metafile = true
 
 [[files]]
@@ -504,12 +504,12 @@ metafile = true
 
 [[files]]
 file = "mods/diamond-chest-shops.pw.toml"
-hash = "caf03dc3460834262c8bb4e80240da392c02c60b01140bc1c48572e5071838a8"
+hash = "bd5fa6189ba51fff781f85dea503f92bf091b9d27e9753a738177abd5d29981e"
 metafile = true
 
 [[files]]
 file = "mods/diamond-economy.pw.toml"
-hash = "9cbaabd0d67787ee5ce56ee13eb1d60f0a0c2eb4cd147e56f6fbfbc227309b8d"
+hash = "e024990940bf8928e78077418360adc5aed7af52b871ecf4152970937a39b1a9"
 metafile = true
 
 [[files]]
@@ -689,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinitevillagertrading.pw.toml"
-hash = "492fd15b3f8dff1c7f97db2f17bda30a96c5d7ec8f395059c9846055cecc4145"
+hash = "c95c64af340ffda923821c966bdea9277a2f8daae0a4df31eaaa64d47b111310"
 metafile = true
 
 [[files]]
@@ -1064,7 +1064,7 @@ metafile = true
 
 [[files]]
 file = "mods/view-distance-fix.pw.toml"
-hash = "89b25533c6a11961a4640f4f3cd1c6dbf4678e101423c1dbb02c1a6386fdc707"
+hash = "da60af4161716dc6fe70f523260e469f91fe00e86de59f0a1753c2efd4f61570"
 metafile = true
 
 [[files]]

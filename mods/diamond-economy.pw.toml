@@ -1,6 +1,6 @@
 name = "Diamond Economy"
 filename = "diamondeconomy-1.5.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2kJPGlnV/versions/LnQ2WBRk/diamondeconomy-1.5.4.jar"
