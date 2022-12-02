@@ -308,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "9b56d13a2577bc7e4e91f0297d0b363ae7798720cc598dd7226c0eda87deaed5"
+hash = "197daded7a6b9d2c8394e9c7905bda23f1754c7d5c1bf762f28c935cabc4acfb"
 metafile = true
 
 [[files]]
@@ -418,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/combat-roll.pw.toml"
-hash = "6886e6c2d6a630a1730927ca55bf27a805540b8358cf531c63953f0bbf35a479"
+hash = "99a341554fb3f1d6a74f3af7cdb4872185fa718597b5774b4eca56ae160c71a0"
 metafile = true
 
 [[files]]
@@ -463,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "e688ae8ac3d9031a206850b33875db66e451d87085c28053dfc2cafdd0d9052d"
+hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
 metafile = true
 
 [[files]]
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "bdffca9b10d41c48b970b40545293fae3ab4698123ed08d598918377bee9472d"
+hash = "991694ca64e944ebcf8b15cf46876d5bde17ea51f65dd63ee07e969c89830336"
 metafile = true
 
 [[files]]
@@ -593,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "7d38f85490d827ed507751145ff688ef45641ae2e7ac397998d6e7a772896b7c"
+hash = "006aa9406003e97dde4527264bf1de799fc03da166b3c2298befabca10c0e950"
 metafile = true
 
 [[files]]
@@ -643,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-fabric.pw.toml"
-hash = "e3cc8a68819ab5057561934ac299ebcaaca88241f69b2346741fce5fc099998e"
+hash = "789485c28818bb462b3bd0de25dea19f12e17995f968cedd8171f23e60f4da9c"
 metafile = true
 
 [[files]]
@@ -763,7 +763,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "e02f0d0b8bf9a5a62bd10d41ddf02e405151ebd9085b0ca955f9d2f903d2a459"
+hash = "fcec3755049b9f8eaf6b9d2e063745ae2f4806981ad5def32354ee3dd54a4697"
 metafile = true
 
 [[files]]
@@ -933,7 +933,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "69bf1ea45cd45cabbf4c2bf8d0a2b383b21faef7d31ef49fa315d392c85d612e"
+hash = "d7206d61ecd2c452b047966b6823c81ac4910eafcc113945799bf5d7c20812c4"
 metafile = true
 
 [[files]]
@@ -953,7 +953,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
+hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
@@ -968,7 +968,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "689cd721deb33671713fb9782c3e132eef73a6b1d553cf85070ce91b72c5d95f"
+hash = "b80d2c3e7f014940b9eb8c1db7f854d5d361f1a3b6b36ce5e6496c9b8d1b11fb"
 metafile = true
 
 [[files]]
@@ -988,7 +988,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "478cd1ce1a766d8d27a4c0b35eb630628117d997e11e2270d2dfe8eb3231a9bf"
+hash = "83dd43e2ae6a86eb5596c223d5581a4ed6b6b12aa35e4fff227e27f3e467ffee"
 metafile = true
 
 [[files]]
@@ -1003,7 +1003,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "fbc7cf43256806a71a7ea1ee1c05bccfd94be736c5def2c2a5ed1908753e501f"
+hash = "09a2246cb32a1b13e94e264d53429e8fdf5bc1d6444bc4112f9f28b971f9dc54"
 metafile = true
 
 [[files]]
