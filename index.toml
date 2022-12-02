@@ -217,6 +217,14 @@ file = "config/visuality.json"
 hash = "add8c26f990ebb2cd86d9941eed9c4acfdd234ab4e1deb5e518703666ea32f93"
 
 [[files]]
+file = "kubejs/server_scripts/glass_tag.js"
+hash = "9dd698884b8932392cc891aec7d444f83585251bc827e9df4409d06db9bb6f59"
+
+[[files]]
+file = "kubejs/server_scripts/wood_recipes.js"
+hash = "88bdcb6b36d1a5358cf6e311086b21f55c9b018b237f5750c665ef22ea1e2273"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
