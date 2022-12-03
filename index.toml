@@ -226,7 +226,7 @@ hash = "0a3cec8106759290626ed8608873d16f6dd2e222d2ab7f56f2b5659464e5c24e"
 
 [[files]]
 file = "kubejs/server_scripts/glass_tag.js"
-hash = "8bf4a56255ef18072ba62037ebe3ef25a53d01c57ab915ef98211cd18141cbed"
+hash = "a0d0fb71a3068878d00b1605e2e0ba796d04d679fc170325ffcfe77cb802e836"
 
 [[files]]
 file = "kubejs/server_scripts/wood_recipes.js"

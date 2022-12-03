@@ -1,6 +1,6 @@
-// For some reason, vanilla glass isn't in the c:glass/colorless tag.
+// For some reason, vanilla glass isn't in the c:colorless_glass tag.
 // This script fixes that.
 
 ServerEvents.tags('item', event => {
-    event.add('c:glass/colorless', 'minecraft:glass')
+    event.add('c:colorless_glass', 'minecraft:glass')
 })
