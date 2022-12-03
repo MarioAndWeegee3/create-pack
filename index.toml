@@ -217,6 +217,14 @@ file = "config/visuality.json"
 hash = "add8c26f990ebb2cd86d9941eed9c4acfdd234ab4e1deb5e518703666ea32f93"
 
 [[files]]
+file = "defaultconfigs/easyanvils-server.toml"
+hash = "daa964497f9569b2f2e2b6099d3bcc3948294fcd8d2abc7d6b39fb9a77810ed6"
+
+[[files]]
+file = "defaultconfigs/easymagic-server.toml"
+hash = "0a3cec8106759290626ed8608873d16f6dd2e222d2ab7f56f2b5659464e5c24e"
+
+[[files]]
 file = "kubejs/server_scripts/glass_tag.js"
 hash = "8bf4a56255ef18072ba62037ebe3ef25a53d01c57ab915ef98211cd18141cbed"
 
@@ -686,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c288cf990690ddd6d3aa44373c7d7293a84cadd0c3249204df22a1b257e417e3"
+hash = "9fe61a63d246792443a5152a6670c6af6b91b28abcebce658120eba14a58578a"
 metafile = true
 
 [[files]]
