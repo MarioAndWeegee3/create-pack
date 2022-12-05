@@ -1,7 +1,11 @@
 name = "ReplayMod"
 filename = "replaymod-1.19.1-2.6.8.jar"
 side = "client"
+
+[option]
 optional = true
+default = true
+description = "May not need to record video"
 
 [download]
 url = "https://cdn.modrinth.com/data/Nv2fQJo5/versions/1.19.1-2.6.8/replaymod-1.19.1-2.6.8.jar"
