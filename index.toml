@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "197daded7a6b9d2c8394e9c7905bda23f1754c7d5c1bf762f28c935cabc4acfb"
+hash = "8a20604524f45cf945ecc569c705bad494d10cb8c2a176992350be788d3a2319"
 metafile = true
 
 [[files]]
@@ -654,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-fabric.pw.toml"
-hash = "789485c28818bb462b3bd0de25dea19f12e17995f968cedd8171f23e60f4da9c"
+hash = "45f2884298e9d481d91ce348625d0983448c17e7e6084001009677fe30399fb9"
 metafile = true
 
 [[files]]
@@ -994,7 +994,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "83dd43e2ae6a86eb5596c223d5581a4ed6b6b12aa35e4fff227e27f3e467ffee"
+hash = "6e3386b97b17b16d47bedbf9d6dbafa12fe5636b34a560913c4b44bb85ed1d4a"
+metafile = true
+
+[[files]]
+file = "mods/slot-swap.pw.toml"
+hash = "c167c631f88f414644f0dc820d46894866ac3c7adac139cd99d7d6180224cb2e"
 metafile = true
 
 [[files]]
@@ -1065,11 +1070,6 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "5ba58212371c4dd21cc9d570de76d69c86b182ab751f1a9c0a6aa6282d2e54ae"
-metafile = true
-
-[[files]]
-file = "mods/utility-belt.pw.toml"
-hash = "bd8b1d6b71204c2b6548c38ccef1add5570b6c06472d3fdc37d65ee6b9da501b"
 metafile = true
 
 [[files]]

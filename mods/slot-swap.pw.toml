@@ -1,0 +1,13 @@
+name = "Slot Swap"
+filename = "slot-swap-1.0.0+mc1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6130k0mF/versions/QF0QXGM0/slot-swap-1.0.0%2Bmc1.19.2.jar"
+hash-format = "sha1"
+hash = "d6f29f03dd73ec9ff1d64552da5e396603093b9a"
+
+[update]
+[update.modrinth]
+mod-id = "6130k0mF"
+version = "QF0QXGM0"
