@@ -688,6 +688,11 @@ hash = "75dd02bfc5ea7b6ea65fd502db12d0161677b992be76f8c43527929d15ee91e4"
 metafile = true
 
 [[files]]
+file = "mods/hotbarcycle.pw.toml"
+hash = "3d37f23b0a16f8378663b30f6ea17467564506323aefd27fc6ee8bf18a9adbef"
+metafile = true
+
+[[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
 hash = "4191daf9db203945cd504e0489ce9008f718bb69fa8ce36cf3847ab28f05355c"
 metafile = true
@@ -995,11 +1000,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "6e3386b97b17b16d47bedbf9d6dbafa12fe5636b34a560913c4b44bb85ed1d4a"
-metafile = true
-
-[[files]]
-file = "mods/slot-swap.pw.toml"
-hash = "c167c631f88f414644f0dc820d46894866ac3c7adac139cd99d7d6180224cb2e"
 metafile = true
 
 [[files]]
