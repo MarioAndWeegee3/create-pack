@@ -713,11 +713,6 @@ hash = "a8ee953af4c9f4c13fdceb956087a3d09bf0b899a7ac5aa5ef347a4eeb211f55"
 metafile = true
 
 [[files]]
-file = "mods/infinity_fix.pw.toml"
-hash = "406e63764fa3fb8166d2e0d42439762f137c3b1c9cb8b63359a0838d8d2b7d79"
-metafile = true
-
-[[files]]
 file = "mods/infinitybuttons.pw.toml"
 hash = "e92713c055d59b16fa430f315719f20b4888ac39e12951d97af273b6f9fa5796"
 metafile = true
