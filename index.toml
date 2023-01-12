@@ -424,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "072d8560e211ca06048bedc494224da54138359b1c9dccbff3819ef6a29ad916"
+hash = "d3f9ec4cfa7b8dab088c236f3411f66f5db5d26d5621e3f43ce25058c596560f"
 metafile = true
 
 [[files]]
@@ -690,11 +690,6 @@ metafile = true
 [[files]]
 file = "mods/hotbarcycle.pw.toml"
 hash = "3d37f23b0a16f8378663b30f6ea17467564506323aefd27fc6ee8bf18a9adbef"
-metafile = true
-
-[[files]]
-file = "mods/i-know-what-im-doing.pw.toml"
-hash = "20a51bfb1800f25433301d1103fe627edcbe13aeccf24a935f9f9bd8eaa4aa21"
 metafile = true
 
 [[files]]

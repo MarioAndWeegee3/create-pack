@@ -1,13 +1,13 @@
 name = "Collective"
-filename = "collective-1.19.2-6.9.jar"
+filename = "collective-1.19.2-6.22.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/tQFDdMS4/collective-1.19.2-6.9.jar"
 hash-format = "sha1"
-hash = "2b9f1cc97f068d2259f409668cff6f8209e4ea31"
+hash = "0e9974778088cfd91a36273a3e636b0cb92f9d43"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "e0M1UDsY"
-version = "tQFDdMS4"
+[update.curseforge]
+file-id = 4329166
+project-id = 342584
