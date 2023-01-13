@@ -583,6 +583,21 @@ hash = "0e47b1328fabc6872c409910a090ec24051381f23e289efd6d0507d63013adbc"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "acbe2b86cf452fd742fe76d32b6473f1da2f3e8f2d36d43a6f96fc32b369327e"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "5b2566cd4cdfb5b47c31246af31ee4e27ec8ace3b248a00823adec7efd8f8fed"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
+metafile = true
+
+[[files]]
 file = "mods/emoji-type.pw.toml"
 hash = "7a6a192d8b94f9363b7a741b6758316437c56598ee0156c479949e71b6c80f7c"
 metafile = true
@@ -970,21 +985,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "b530e384695dc6a2af30a6383b46ec40f0823b64ac37189cfb155774d890fe4c"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "6340a88921b62b5e3f688fa0808817e8cb338a725b070df52405bc26e7e5b49f"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "e64337931128cd8c50f91178c56e2f73724bbcfef8dc112286e4a024b2cd8d2f"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-resources.pw.toml"
-hash = "6f46cfcca55777b06ce0bf646a815aed4fbc4eb19e21e055a8e6528e41397278"
 metafile = true
 
 [[files]]
