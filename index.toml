@@ -229,6 +229,10 @@ file = "kubejs/server_scripts/glass_tag.js"
 hash = "a0d0fb71a3068878d00b1605e2e0ba796d04d679fc170325ffcfe77cb802e836"
 
 [[files]]
+file = "kubejs/server_scripts/shulker.js"
+hash = "cb387d4c317988334cc13059cd2ad8bca109a7a00fd23c457a871bc3976fb93e"
+
+[[files]]
 file = "kubejs/server_scripts/wood_recipes.js"
 hash = "084ca1c9f48f2003019a36ae8af39cb6b491b6911f060179f695716cc5e94941"
 
