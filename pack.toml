@@ -1,6 +1,6 @@
 name = "Create Pack"
 author = "MarioAndWeegee3"
-version = "0.4.3"
+version = "0.4.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "b6004c4f8a17477d9b69022d0cc5fcb600aa2ca2afbb349b6f0c0fba5beac20d"
 
 [versions]
 minecraft = "1.19.2"
-quilt = "0.18.1-beta.35"
+quilt = "0.17.8"
