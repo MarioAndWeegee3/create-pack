@@ -769,7 +769,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "60c23ab82e745f6584071b2d9c9fbab09e0a393a9b223203623bdb15969f3980"
+hash = "6e06fcacd3d3b08a6623fb497876ea3028260379c64539fb8c82c251429e5f5d"
 metafile = true
 
 [[files]]
@@ -994,7 +994,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9c4fd1635b7bff2b69551cdacc28464799774ce3da0c8490ce98f37125618020"
+hash = "0e5d25f9f7d06bf3c50d2b3f7ad5a00f43a5e5f056641b6b24eaf4d0b24e6119"
 metafile = true
 
 [[files]]
