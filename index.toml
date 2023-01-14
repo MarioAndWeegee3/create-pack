@@ -230,7 +230,7 @@ hash = "a0d0fb71a3068878d00b1605e2e0ba796d04d679fc170325ffcfe77cb802e836"
 
 [[files]]
 file = "kubejs/server_scripts/shulker.js"
-hash = "cb387d4c317988334cc13059cd2ad8bca109a7a00fd23c457a871bc3976fb93e"
+hash = "3026375b6f760e22e9bb6cf91578e1f00fe44695f6bfc88f5f973ad31fb3f800"
 
 [[files]]
 file = "kubejs/server_scripts/wood_recipes.js"

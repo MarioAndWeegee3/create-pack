@@ -12,10 +12,15 @@ ServerEvents.recipes(event => {
     event.custom({
         type: 'create:pressing',
         ingredients: [
-            Ingredient.of('minecraft:popped_chorus_fruit').toJson(),
+            {
+                item: 'minecraft:popped_chorus_fruit',
+            }
         ],
         results: [
-            Item.of('minecraft:shulker_shell', 2).toResultJson(),
+            {
+                item: 'minecraft:shulker_shell',
+                count: 2,
+            }
         ],
     })
 })
