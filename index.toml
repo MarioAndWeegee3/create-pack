@@ -397,11 +397,6 @@ hash = "6ec0a34b79173dc6be52162787f43f6ce9e7b21b68acc3c5970dcbf0b3958875"
 metafile = true
 
 [[files]]
-file = "mods/can-i-mine-this-block.pw.toml"
-hash = "b1b9c9516a2c3ff06ca5061aa6b5461c36d6ee6b5f95feb3a1b510ccf94b942b"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
@@ -647,11 +642,6 @@ hash = "006aa9406003e97dde4527264bf1de799fc03da166b3c2298befabca10c0e950"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
-metafile = true
-
-[[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "c8411b4fb17459c9433de7ce722a23e0a9b8600ee5d2b156e99d3d041e3ba86f"
 metafile = true
@@ -754,11 +744,6 @@ metafile = true
 [[files]]
 file = "mods/infinitevillagertrading.pw.toml"
 hash = "c95c64af340ffda923821c966bdea9277a2f8daae0a4df31eaaa64d47b111310"
-metafile = true
-
-[[files]]
-file = "mods/infinity-and-mending.pw.toml"
-hash = "a1ff25a1c52adb384d08fd09ff4d17ece711c4f9a12ce3af7125920dabeab46a"
 metafile = true
 
 [[files]]
