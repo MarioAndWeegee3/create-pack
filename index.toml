@@ -933,7 +933,7 @@ metafile = true
 
 [[files]]
 file = "mods/new-infinity-fix.pw.toml"
-hash = "6aba499a66e8f3b0a52a9fcdc4694f9f95925fe5a5b5a5873499b7ef492f0eb1"
+hash = "2de1571e8117f43e16f888c6ef3a22451b1cf9170779bf458b57faabfbac4128"
 metafile = true
 
 [[files]]
