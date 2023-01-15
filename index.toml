@@ -169,6 +169,10 @@ file = "config/byg/trades.json5"
 hash = "454009589a1e124e443de48161f7250570aaac97dc334b2c3c973517c071c086"
 
 [[files]]
+file = "config/carryon-common.json"
+hash = "487ebba3c8735646cfbfcf1e5c7a8a5724cc95682dbaeb95d9b56c61b054ddc5"
+
+[[files]]
 file = "config/charm.toml"
 hash = "156d6deb171fc220b16a4072fecf413f30aa51ec5f960dc3929b1314588846cb"
 
