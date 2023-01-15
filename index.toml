@@ -428,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "d3f9ec4cfa7b8dab088c236f3411f66f5db5d26d5621e3f43ce25058c596560f"
+hash = "e52af68748425c0280f4b20e8d22ac8fa2e22804234a00d2e0941e7ac4ace295"
 metafile = true
 
 [[files]]
@@ -593,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "5b2566cd4cdfb5b47c31246af31ee4e27ec8ace3b248a00823adec7efd8f8fed"
+hash = "6b6203af7dc03a920fb09c81f79340d9d6d1bc9a9f9c3682db49e3b085d54549"
 metafile = true
 
 [[files]]
@@ -747,8 +747,8 @@ hash = "2f028c67b37fc7c906bcd8983e775c588b49d03a05953acc9a38e37cb275ea96"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "02cef7560c9b885038b3cb2601581a057b9651ef82d0198e34aff1ae7be0d021"
+file = "mods/irisshaders.pw.toml"
+hash = "c2c9da2d2c1be1e25528e872a6645fb31bc6aed7d20d2762952f4e8125d9a9b4"
 metafile = true
 
 [[files]]
@@ -788,7 +788,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "756d833591c1a47e47b5b0c2440da3a7c267ee170f9cc4965e181dd69d4a9154"
+hash = "e7e06878a40e4733a45b06aba4e1adaf09905485268e9c19e75a6ed9c0f86490"
 metafile = true
 
 [[files]]
@@ -1023,7 +1023,7 @@ metafile = true
 
 [[files]]
 file = "mods/spiky-spikes.pw.toml"
-hash = "4474335374e79f51ba61b5d44fbe009e31d1c5269305a918b1a01ae86eba5e24"
+hash = "82f5abe93bb5ef6e6f4f0ed1aec509dbfa8398d1218ba6456b763057ed42f8c8"
 metafile = true
 
 [[files]]
