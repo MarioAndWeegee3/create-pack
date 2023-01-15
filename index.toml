@@ -567,6 +567,11 @@ hash = "1bba2574a2f04ba8c037eaaa8f4b599176f20e1a5f144ee6eb55725fabdc7e44"
 metafile = true
 
 [[files]]
+file = "mods/easiervillagertrading.pw.toml"
+hash = "06614c130009ac62167aa8e192875f8677570d24c0937f37f24265b3dd23fb80"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "66b5f16972360b8a7347c5290d48f0c8f9e56b356a800628d669b9440ff07d29"
 metafile = true
