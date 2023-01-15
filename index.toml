@@ -817,11 +817,6 @@ hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
 
 [[files]]
-file = "mods/language-reload.pw.toml"
-hash = "e7e06878a40e4733a45b06aba4e1adaf09905485268e9c19e75a6ed9c0f86490"
-metafile = true
-
-[[files]]
 file = "mods/lanterns-bow.pw.toml"
 hash = "4dcbc0c13835a68f1c58e75216beed433609e4565800f22342279f7934f7044b"
 metafile = true
