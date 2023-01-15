@@ -1,0 +1,13 @@
+name = "Client-Sided Crystals"
+filename = "clientsidedcrystals-1.0.0-1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/an4M2v8j/versions/EyxCF690/clientsidedcrystals-1.0.0-1.19.jar"
+hash-format = "sha1"
+hash = "ef1e4e8abce8743dd4b2e90a0e1577bc0b679643"
+
+[update]
+[update.modrinth]
+mod-id = "an4M2v8j"
+version = "EyxCF690"

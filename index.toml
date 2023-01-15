@@ -317,6 +317,11 @@ hash = "7c5c3e69f7d2abcde972efc46603be697818d834f28e94bbdb4fd5ee565c1c9a"
 metafile = true
 
 [[files]]
+file = "mods/better-beacon-placement.pw.toml"
+hash = "99de00ec7e03894041c68c4b4c3a44ddd97f3495365d5a4c73fb5c635419b3e5"
+metafile = true
+
+[[files]]
 file = "mods/better-beds.pw.toml"
 hash = "112cb3b761a4ef017c2123fe61c0bcd0425d67ecbbc77ea76dd4f9c6842312bf"
 metafile = true
@@ -334,6 +339,11 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "fa7eed08ecb81a2cc3ec4f9cc5387874936f2496a5739ec71d263a6f26a45c34"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "9a65d0348c683efc848cfe5e09b19851e8642fa2307491636c2bdac0e8122046"
 metafile = true
 
 [[files]]
@@ -397,6 +407,11 @@ hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "006b6c2359e58dcc1256b97d4228c1bf6b54e92d2671b5dbd054604d2fd1b28e"
+metafile = true
+
+[[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
@@ -419,6 +434,11 @@ metafile = true
 [[files]]
 file = "mods/clickthrough.pw.toml"
 hash = "1a4c9d83b0709fd2f91814eb67f81e19bb1493315c42cb65efe911d0f34c5a13"
+metafile = true
+
+[[files]]
+file = "mods/client-sided-crystals.pw.toml"
+hash = "2bed95997379da9fbcd09c3664cd49f78c1d75433785731cf40ff9b3de0cb9e6"
 metafile = true
 
 [[files]]
@@ -652,6 +672,11 @@ hash = "99f6a7efa6c8946aacfa1465ad8a2912cdf3233dc09a5788ad5d7f6d679836b4"
 metafile = true
 
 [[files]]
+file = "mods/feed-the-bees.pw.toml"
+hash = "170bf663e848d26391efc06ec066c2196943a2b6c9a144f147a6fd17cd8b382e"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
@@ -707,6 +732,11 @@ hash = "75dd02bfc5ea7b6ea65fd502db12d0161677b992be76f8c43527929d15ee91e4"
 metafile = true
 
 [[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "7db3de41ad0cd2c6f791ae3ce784a4f2a9e03e429646fc56498b6393d0a9b212"
+metafile = true
+
+[[files]]
 file = "mods/hotbarcycle.pw.toml"
 hash = "3d37f23b0a16f8378663b30f6ea17467564506323aefd27fc6ee8bf18a9adbef"
 metafile = true
@@ -724,6 +754,11 @@ metafile = true
 [[files]]
 file = "mods/infinitevillagertrading.pw.toml"
 hash = "c95c64af340ffda923821c966bdea9277a2f8daae0a4df31eaaa64d47b111310"
+metafile = true
+
+[[files]]
+file = "mods/infinity-and-mending.pw.toml"
+hash = "a1ff25a1c52adb384d08fd09ff4d17ece711c4f9a12ce3af7125920dabeab46a"
 metafile = true
 
 [[files]]
@@ -749,6 +784,16 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "c2c9da2d2c1be1e25528e872a6645fb31bc6aed7d20d2762952f4e8125d9a9b4"
+metafile = true
+
+[[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "3c95ba1c0a5e8065fbce03ea38aef44e5dfdff2e681c81a8720e6ff543774309"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
 metafile = true
 
 [[files]]
@@ -792,6 +837,11 @@ hash = "e7e06878a40e4733a45b06aba4e1adaf09905485268e9c19e75a6ed9c0f86490"
 metafile = true
 
 [[files]]
+file = "mods/lanterns-bow.pw.toml"
+hash = "4dcbc0c13835a68f1c58e75216beed433609e4565800f22342279f7934f7044b"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
@@ -819,6 +869,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
+metafile = true
+
+[[files]]
+file = "mods/maxwell-the-placeable-cat.pw.toml"
+hash = "8162db0e0c4e8a01a33036e279db2c12d48616b0f2fcd44edd2416291e327a26"
 metafile = true
 
 [[files]]
@@ -892,6 +947,11 @@ hash = "8bad8c9de76befcc2d3335022417b8a89983f2c4ea8dc547911d7104367f626a"
 metafile = true
 
 [[files]]
+file = "mods/new-infinity-fix.pw.toml"
+hash = "6aba499a66e8f3b0a52a9fcdc4694f9f95925fe5a5b5a5873499b7ef492f0eb1"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
@@ -954,6 +1014,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "0568443a68c429253e10bee7655f0baf669f1fd8dd06b39cb83423f6c522cadc"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
 metafile = true
 
 [[files]]
@@ -1099,11 +1164,6 @@ metafile = true
 [[files]]
 file = "mods/wmitaf.pw.toml"
 hash = "b1c360efac16181859902e289a323b7c7e5b38e57dcb9881d94dc28be99c1a62"
-metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
-hash = "b003caafe717cbbf9ba2a7539bdd361e4d7e58e0d9602bd81a41387691b7e70c"
 metafile = true
 
 [[files]]
