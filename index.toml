@@ -852,11 +852,6 @@ hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
 metafile = true
 
 [[files]]
-file = "mods/maxwell-the-placeable-cat.pw.toml"
-hash = "8162db0e0c4e8a01a33036e279db2c12d48616b0f2fcd44edd2416291e327a26"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
 metafile = true
