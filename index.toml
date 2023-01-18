@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "e52af68748425c0280f4b20e8d22ac8fa2e22804234a00d2e0941e7ac4ace295"
+hash = "c155bd23eaa6c9a5f9db09d3fd4cf18513b2a5ae20dc5e8ed7d370804c282130"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.pw.toml"
-hash = "2f028c67b37fc7c906bcd8983e775c588b49d03a05953acc9a38e37cb275ea96"
+hash = "5f1a8f027309da8b9d2131320e58ed37e49d8640914c47fc1c6fc77d6cb4ac27"
 metafile = true
 
 [[files]]
@@ -932,7 +932,7 @@ metafile = true
 
 [[files]]
 file = "mods/new-infinity-fix.pw.toml"
-hash = "2de1571e8117f43e16f888c6ef3a22451b1cf9170779bf458b57faabfbac4128"
+hash = "7e8190cbf33d88bc3c1ac27bc7d45e94ad52575dd5249a84cd90a5e6f9b687a8"
 metafile = true
 
 [[files]]
@@ -1117,7 +1117,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "b3acdba79cfef7e53cfd4df8dd6e7cbbe4eeae75972bf65fa2a6aaef034f4b8e"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
