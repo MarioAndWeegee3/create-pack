@@ -229,6 +229,10 @@ file = "defaultconfigs/easymagic-server.toml"
 hash = "0a3cec8106759290626ed8608873d16f6dd2e222d2ab7f56f2b5659464e5c24e"
 
 [[files]]
+file = "kubejs/server_scripts/elytra.js"
+hash = "66b6624b8c6d127f4ad5d84b455beacbaf868e52dbcbc8ebf26e6eee2b10d7e7"
+
+[[files]]
 file = "kubejs/server_scripts/glass_tag.js"
 hash = "a0d0fb71a3068878d00b1605e2e0ba796d04d679fc170325ffcfe77cb802e836"
 
@@ -297,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/axes-are-weapons.pw.toml"
-hash = "17286bf8c9bcbb1aae16dca55cd42d139bb034e11bca5a5284808284330b0d98"
+hash = "bb2ce8c40f0e18b52e146b304ace367e92d5e904a7c6ff2da532cfd20af1404d"
 metafile = true
 
 [[files]]
@@ -337,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "77cd17d1dff5330d6af8141daa28a580dcb1123a798adc6ca130eef93ae8b38f"
+hash = "cc321242d70d27ad8168b08dcec277f60db25801e0bd7dcc4dcfc94b72618672"
 metafile = true
 
 [[files]]
@@ -407,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "006b6c2359e58dcc1256b97d4228c1bf6b54e92d2671b5dbd054604d2fd1b28e"
+hash = "140828b63bd47adaf33a8e3501eebfcb94bc6535f573a728ffe1e692d192ddd4"
 metafile = true
 
 [[files]]
@@ -437,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-sided-crystals.pw.toml"
-hash = "2bed95997379da9fbcd09c3664cd49f78c1d75433785731cf40ff9b3de0cb9e6"
+hash = "c73b579fda33146e8a590180a89c3d8f9dfa4076eff2e4d2bf1dfda6be2c6af3"
 metafile = true
 
 [[files]]
@@ -447,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "c155bd23eaa6c9a5f9db09d3fd4cf18513b2a5ae20dc5e8ed7d370804c282130"
+hash = "03933b1eb62a17a00429971eda969e8744029acbc2d364e7d97dcf8285a64258"
 metafile = true
 
 [[files]]
@@ -617,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "6b6203af7dc03a920fb09c81f79340d9d6d1bc9a9f9c3682db49e3b085d54549"
+hash = "0dae59129e00d7a9e9bd231efc735cb650b8f582fe18138c555c403c6daf5565"
 metafile = true
 
 [[files]]
@@ -726,11 +730,6 @@ hash = "7cc764aef1bb942d7c5079f4f0c7a6e3a538e043d33186a64890ed869f56dc42"
 metafile = true
 
 [[files]]
-file = "mods/grind-enchantments.pw.toml"
-hash = "75dd02bfc5ea7b6ea65fd502db12d0161677b992be76f8c43527929d15ee91e4"
-metafile = true
-
-[[files]]
 file = "mods/held-item-info.pw.toml"
 hash = "7db3de41ad0cd2c6f791ae3ce784a4f2a9e03e429646fc56498b6393d0a9b212"
 metafile = true
@@ -742,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "7e6a77d0ebdb13f5a90507620f22d7fb29926c6d9683366d48f61ed442727e69"
+hash = "784f2f9d83342810ceafb5b6b7ddfec867ce807b7498d32e656a924f97a8009d"
 metafile = true
 
 [[files]]
@@ -977,7 +976,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "02237c6df2fd74cdce0bcfdaf89407602e354a5e0cb3507f234e1f85a8568cb0"
+hash = "800e1b77a27265f4e3057e929f6453a83554af5a563effdf1d3871a5022916a4"
 metafile = true
 
 [[files]]
