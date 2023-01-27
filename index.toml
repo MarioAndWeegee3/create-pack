@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "140828b63bd47adaf33a8e3501eebfcb94bc6535f573a728ffe1e692d192ddd4"
+hash = "881ddb59302c7dd6762c06c10f6d858b74749c8aea781d02339efd482fe10a9f"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "03933b1eb62a17a00429971eda969e8744029acbc2d364e7d97dcf8285a64258"
+hash = "3ed5a18da21ee0922b010021b25eaddb9f34e8d6b35c044798673426bf26749a"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/crawl.pw.toml"
-hash = "f9d1b42c420189d839c9fb8a8ca9d53062c49b98e9be997245dc40b797030430"
+hash = "8d1d92050b2d2685b8b58f43306b5766bee9d1e5281e00ac80dc4ec2fe4ab751"
 metafile = true
 
 [[files]]
@@ -521,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "8648f14f9a4d1afaf67215ad031451820dac1dc4e0f4137d523cc056b9f12666"
+hash = "8804070ff3a1eee8e7a6d2b91de65fea120fcab35210de69b4c7f092a430f0b8"
 metafile = true
 
 [[files]]
@@ -536,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/deepslate-instamine.pw.toml"
-hash = "a2cd70f496549a4c6f34ae41a43cb7708c3dba8ddcfc89fa1c8b74980f7758e1"
+hash = "981b818e77f4ae12cd11f7a8e32e8d9f582a6b76f13f5475aa4fce1c36cad6c2"
 metafile = true
 
 [[files]]
@@ -616,12 +616,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "acbe2b86cf452fd742fe76d32b6473f1da2f3e8f2d36d43a6f96fc32b369327e"
+hash = "43b6a7bf6aabe2e538d613bde52a354a9f55e50980bf808bdb5f875c68401f9b"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "0dae59129e00d7a9e9bd231efc735cb650b8f582fe18138c555c403c6daf5565"
+hash = "31d8b702aa46b73a8885e3b2fab07732f3387924d6ea7cfc8c753e7eb73465c4"
 metafile = true
 
 [[files]]
@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "c8411b4fb17459c9433de7ce722a23e0a9b8600ee5d2b156e99d3d041e3ba86f"
+hash = "1ef7f8449365aa7f1185447ca46bc1c742e3d766c9dffb90b90447daed049042"
 metafile = true
 
 [[files]]
@@ -711,7 +711,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-teams-fabric.pw.toml"
-hash = "306ee24cdf6a03f0b843aeef13c6eb59a25e09ebe1f0c93b1a95e1df54cd0cff"
+hash = "7b4a6673987fc6becfc09a3e01ccce288113cfaefbbf1ad6f3bfa796c75d501a"
 metafile = true
 
 [[files]]
@@ -741,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "784f2f9d83342810ceafb5b6b7ddfec867ce807b7498d32e656a924f97a8009d"
+hash = "1955a695f7ca2ecfc2a923d94897677ba0def8bd8532543f4d635a8498b4ec2d"
 metafile = true
 
 [[files]]
@@ -916,7 +916,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "95968c19d093f7074af27079bc2f7f5fb09f21c2c659355fe8da7ea168e23c84"
+hash = "ad5006e0af565aa9e862112703e3867b291233a0ffcc56495387319d70ac402e"
 metafile = true
 
 [[files]]
@@ -1071,7 +1071,7 @@ metafile = true
 
 [[files]]
 file = "mods/spiky-spikes.pw.toml"
-hash = "82f5abe93bb5ef6e6f4f0ed1aec509dbfa8398d1218ba6456b763057ed42f8c8"
+hash = "487034143a048af8fbb9415aa919646302e3de8e20c28bc1bcd3b2bab83d69e8"
 metafile = true
 
 [[files]]
@@ -1151,7 +1151,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "afc5f3bf4cae41e848070a109287bc6607c2f46045fc452da5d43189358adcb6"
+hash = "a50adf5dc08750b87e7681fb99637e39660e61befc795793023f4024ec7eeec3"
 metafile = true
 
 [[files]]
