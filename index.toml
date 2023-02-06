@@ -501,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
+hash = "7834481f76838453cdcc6c3a9eca9cd46e3199c0ff1788720d707507c8a03a75"
 metafile = true
 
 [[files]]
@@ -611,17 +611,17 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot-fabric.pw.toml"
-hash = "0e47b1328fabc6872c409910a090ec24051381f23e289efd6d0507d63013adbc"
+hash = "dd37b331789c533eb47ecc8e6783214f09560ff292d37e0f0a3b8329721ec7e4"
 metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "43b6a7bf6aabe2e538d613bde52a354a9f55e50980bf808bdb5f875c68401f9b"
+hash = "d335568e8a10a9f1b14f828870474d99798f8e33b687ba1e765e7827f744fadc"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "31d8b702aa46b73a8885e3b2fab07732f3387924d6ea7cfc8c753e7eb73465c4"
+hash = "c9b76faa13062eea32d52fac5e90ee7869700b487e53cf0307142dbaea5fb989"
 metafile = true
 
 [[files]]
@@ -651,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "006aa9406003e97dde4527264bf1de799fc03da166b3c2298befabca10c0e950"
+hash = "4c7e2b50ee6e151e93461a8ee8f65ba76b1c414f37dd5a8af3b6ee26c221c758"
 metafile = true
 
 [[files]]
@@ -701,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-fabric.pw.toml"
-hash = "ce0952423cdf1da9b23f805e5654a8b2b1c838fdfde45a981092b01925ac7dc5"
+hash = "d30726cc7c3f7e819c38764c73351807fcb56bc14de011fdeabe298069b53255"
 metafile = true
 
 [[files]]
@@ -811,7 +811,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "6e06fcacd3d3b08a6623fb497876ea3028260379c64539fb8c82c251429e5f5d"
+hash = "707f084564b8548690f44fc42d81854f84ca874bbbace121600fb67b0a979a4e"
 metafile = true
 
 [[files]]
@@ -945,11 +945,6 @@ hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
 metafile = true
 
 [[files]]
-file = "mods/optigui.pw.toml"
-hash = "fc829d9bfa6e9c399324e64cc5feb01f01630fc0971c7286ac08b5575dcf89b2"
-metafile = true
-
-[[files]]
 file = "mods/origins-minus.pw.toml"
 hash = "1c7b38e01cab4654b28cb11a03877833b0ceac99c8803ae436bcd4045e6bdffc"
 metafile = true
@@ -1006,7 +1001,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "52b33bf6600eecca94d7f34b58828fe8969033d68a492abb633bba2394b93cd9"
+hash = "f8abf37ca66a859e03c848166dfd7d82f4c89a22c7b4ec5b3f97890bda8438d7"
 metafile = true
 
 [[files]]
@@ -1046,7 +1041,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0e5d25f9f7d06bf3c50d2b3f7ad5a00f43a5e5f056641b6b24eaf4d0b24e6119"
+hash = "75dec29724ec4e91a5716dda598acf0bd2911255925709216101e16987f242b4"
 metafile = true
 
 [[files]]
@@ -1151,7 +1146,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "a50adf5dc08750b87e7681fb99637e39660e61befc795793023f4024ec7eeec3"
+hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
 metafile = true
 
 [[files]]
