@@ -21,10 +21,6 @@ ServerEvents.recipes(event => {
                 item: 'minecraft:wither_rose',
                 chance: 0.7,
             },
-            {
-                item: 'minecraft:bone_block',
-                chance: 0.8,
-            },
         ],
     })
 })
