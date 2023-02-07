@@ -241,6 +241,10 @@ file = "kubejs/server_scripts/shulker.js"
 hash = "3026375b6f760e22e9bb6cf91578e1f00fe44695f6bfc88f5f973ad31fb3f800"
 
 [[files]]
+file = "kubejs/server_scripts/wither_skull.js"
+hash = "af16072eb8521f309406d0c4ccd684c527c73ea57c97cae994df315b18872725"
+
+[[files]]
 file = "kubejs/server_scripts/wood_recipes.js"
 hash = "084ca1c9f48f2003019a36ae8af39cb6b491b6911f060179f695716cc5e94941"
 
