@@ -217,6 +217,10 @@ file = "config/inspecio.json"
 hash = "a57cf6ca1fc3342c3b56682c5e5a52f5ee645509399aee4e13a33275a83ceaf9"
 
 [[files]]
+file = "config/toms_storage.json"
+hash = "b234852324ba3266585590873505e5e68a5f058b45f4fb7f15c8857144ab29a2"
+
+[[files]]
 file = "config/visuality.json"
 hash = "add8c26f990ebb2cd86d9941eed9c4acfdd234ab4e1deb5e518703666ea32f93"
 
