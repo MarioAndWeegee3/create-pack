@@ -1148,6 +1148,11 @@ hash = "8b573a7962316028e8ad10fd7386ce2e03569aa9258c5624a24490f3b068418e"
 metafile = true
 
 [[files]]
+file = "mods/wiredredstone.pw.toml"
+hash = "c14f01a15feb562f91b9ddd95911219d1b5ef584f4f88d122deea01f4bb20c74"
+metafile = true
+
+[[files]]
 file = "mods/wmitaf.pw.toml"
 hash = "b1c360efac16181859902e289a323b7c7e5b38e57dcb9881d94dc28be99c1a62"
 metafile = true
