@@ -1,6 +1,6 @@
 name = "Create Pack"
 author = "MarioAndWeegee3"
-version = "0.8.4"
+version = "0.8.4-test"
 pack-format = "packwiz:1.1.0"
 
 [index]
