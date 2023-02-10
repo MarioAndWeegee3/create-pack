@@ -217,6 +217,10 @@ file = "config/inspecio.json"
 hash = "a57cf6ca1fc3342c3b56682c5e5a52f5ee645509399aee4e13a33275a83ceaf9"
 
 [[files]]
+file = "config/quilt-loader-overrides.json"
+hash = "06532c6efaa8612e50c286f031cf112128592c44473a1da55c1972c692704e02"
+
+[[files]]
 file = "config/toms_storage.json"
 hash = "b234852324ba3266585590873505e5e68a5f058b45f4fb7f15c8857144ab29a2"
 
@@ -1134,7 +1138,7 @@ metafile = true
 
 [[files]]
 file = "mods/visual-workbench.pw.toml"
-hash = "c8236c4cf2c8f1a73f7790f519fe9afa1c469903600ac5aea21154437c2bcbbe"
+hash = "594a2e51cdcf0355c3e7a7ab029d877c98b8247f4990ff344f11c2d1110edd9e"
 metafile = true
 
 [[files]]
