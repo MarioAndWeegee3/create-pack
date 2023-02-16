@@ -218,7 +218,7 @@ hash = "a57cf6ca1fc3342c3b56682c5e5a52f5ee645509399aee4e13a33275a83ceaf9"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "06532c6efaa8612e50c286f031cf112128592c44473a1da55c1972c692704e02"
+hash = "db8c37de2d0a4b88955e144a167c84e1199e5c22a6fdd71c6b3088a46bca77e0"
 
 [[files]]
 file = "config/toms_storage.json"
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-beacon-placement.pw.toml"
-hash = "99de00ec7e03894041c68c4b4c3a44ddd97f3495365d5a4c73fb5c635419b3e5"
+hash = "2c0b8ee3c1b87d1f85dead21ecb3e216a7599a79404ab76e95926684f4dc7879"
 metafile = true
 
 [[files]]
@@ -458,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "3ed5a18da21ee0922b010021b25eaddb9f34e8d6b35c044798673426bf26749a"
+hash = "35f8aad89b7dfe7cd122f333079b3d4551e1e181aa5b5a1db26d33fff7cee49c"
 metafile = true
 
 [[files]]
@@ -508,7 +508,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "8b6b35edb19ad88e9a04a295fa8d1d1dcccb44288ab2526371734625a95d1989"
+hash = "b1aa83bed8ef891dff38190701b48f6dd70085c26159f9316334bbe85b935ead"
 metafile = true
 
 [[files]]
@@ -713,7 +713,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
-hash = "6ab3eb4d76bd46affe125b568d7fbb4ebd3d563bfe78c7696aa7ce52feb34a18"
+hash = "ef85214468f623d4230b403161f52fe8c9259aa2f204223bbf2ab2a762289728"
 metafile = true
 
 [[files]]
@@ -1008,7 +1008,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "f8abf37ca66a859e03c848166dfd7d82f4c89a22c7b4ec5b3f97890bda8438d7"
+hash = "0f9e287c84c2463ecb376d58c8bf30cbfbfa04ec44aef2f61e36e42fe529be30"
 metafile = true
 
 [[files]]
