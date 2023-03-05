@@ -17,156 +17,8 @@ file = "config/betterthirdperson.json5"
 hash = "70c27e967da11b8764e46aa0236dcbc577ddec4ab67a65c5eaa0aea37ea0a837"
 
 [[files]]
-file = "config/byg/README.txt"
-hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
-
-[[files]]
-file = "config/byg/biomepedia.json5"
-hash = "b866ba2a574783ac1cbccd9f97a15438c436ed66d6bc58998283d5db2220738a"
-
-[[files]]
 file = "config/byg/client/biomepedia_inventory.json5"
 hash = "a11697d94e6c780942619ce6b250b73bbcb7ba4ccbffec6ad40e1603eb425417"
-
-[[files]]
-file = "config/byg/config_versions.json5"
-hash = "8f4186c227a695fde8942363956bf88a7c96ee95e077a389be4ca92c5a42407e"
-
-[[files]]
-file = "config/byg/end-biomes.json5"
-hash = "08f3326b9f2b62917a215b8030a3d4abff0fbe584c73f9e863c0cc988c01a380"
-
-[[files]]
-file = "config/byg/growing-patterns.json5"
-hash = "7775c7c5b40f3c4ee9159caad0a7c2a84a7c61619fc47a9d66e0626a72861bc6"
-
-[[files]]
-file = "config/byg/nether-biomes.json5"
-hash = "3ae4eb6e44fe760e794faee6cef8c35d0ac4e139460e4f81c8d1f951e1811efd"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_1.json5"
-hash = "0e53d280eb90fb3c42f66b0ce58d4e08e638a51d676671ee5588846da14f70b8"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_vanilla.json5"
-hash = "6dd230fc4c56de80747e8e9c55b819c30a90c04b27694111f0318f6988ca1d33"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_1.json5"
-hash = "498379b746679a6a8d3d504e39137c46a0ab4fc7e4e7a348e11ab7145a89d94b"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_2.json5"
-hash = "6147180d652e84c3241b1da714e32eefca253e22b3fe2238ba873e559f964ecf"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_3.json5"
-hash = "9788dfd410e0574b18b30357a0ef070a6d298ca920a7014b332dceb90c11411a"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_vanilla.json5"
-hash = "f78eacc414033fd7f75d1515835e6952225b9eeb8527db35927f6aba19be2db6"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/middle_biomes_variant/middle_biomes_variant_vanilla.json5"
-hash = "2c98b46f5859bfad90f6381cba3072bc272ea49c59036e85d4bc19c4d78e3bcb"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/oceans/oceans_1.json5"
-hash = "15eefb2eb101d0ae7e317c16607787a42da09c083cab0ca18449afddad7f69f0"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/oceans/oceans_vanilla.json5"
-hash = "e759bdca66716ef1c839a0da99b2dbc30983ac49411773f67df86efc2967575c"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/peak_biomes/peak_biomes_1.json5"
-hash = "27c4f1ac223676791f862d972f7383be1bbb05dd303e92c910f99ed341d32a1f"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/peak_biomes/peak_biomes_vanilla.json5"
-hash = "1d67c6d3f53e21ea538ff516c56301e334ca509b461e4d0a5cb914e48388e1e9"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/peak_biomes_variant/peak_biomes_variant_vanilla.json5"
-hash = "5eb3f8ee44e14ad8ad7952bf38af861585022222c0458b5241d163adeb1aca2c"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_1.json5"
-hash = "638b5f648d8757bc1d70f8f570b80d770e7f0eff10e21279dce094bd783f6dbb"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_2.json5"
-hash = "81e7e5301a05ac24b4099eb406a5fe1c0a757e785329d073a7517b3f209fd7d4"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_3.json5"
-hash = "81e7e5301a05ac24b4099eb406a5fe1c0a757e785329d073a7517b3f209fd7d4"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_vanilla.json5"
-hash = "01e9ef99c0ce3d25dbd4f70244add31a7538bd844878de320cd903c74eee36ef"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/plateau_biomes_variant/plateau_biomes_variant_vanilla.json5"
-hash = "efcd0e3145f0b2a9853609e0a89161da94f68bb48104cd105dd61e8eda313c79"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/shattered_biomes/shattered_biomes_vanilla.json5"
-hash = "1af3e3dfc20312ec48227dec225ad4ef2922e5b5fb3e402be3e56ffae73514dd"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/slope_biomes/slope_biomes_1.json5"
-hash = "0ba37f84e834fc492cbd1e95e8a4876fa9bd75b9a6a2777ca3402b60a031e482"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/slope_biomes/slope_biomes_vanilla.json5"
-hash = "49119e306636691780508164929efd5846fb03c9f2c8be13e3b7ee7406563d32"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/slope_biomes_variant/slope_biomes_variant_vanilla.json5"
-hash = "115c27d732c71b6fcc7daa358607f0ae1f27ac447485f0523e385cd2f085a584"
-
-[[files]]
-file = "config/byg/overworld/byg-overworld-biomes.json5"
-hash = "36979e8631491446dbc5de230cb3aadf7c6440b7a20fcbae045497ba4f3932e5"
-
-[[files]]
-file = "config/byg/overworld/regions/rare_region_1.json5"
-hash = "179a4d61cf995a0d2f54a2ccd09774eb33b84080fe3ec66b154d2694016b8a29"
-
-[[files]]
-file = "config/byg/overworld/regions/region_1.json5"
-hash = "f3fdb1f8ebe3959e1a73d7bd9e5d5fca5313a8b5110b6482309374d622a12a22"
-
-[[files]]
-file = "config/byg/overworld/regions/region_2.json5"
-hash = "e9d107cc77c0f771458d80c4c852d19d7fbaa4eeb25cab58e866910e04843c00"
-
-[[files]]
-file = "config/byg/overworld/regions/region_3.json5"
-hash = "8fcadaf16f568fcddfc127cf91f429ad100f07283b7f149e291e1228355580d5"
-
-[[files]]
-file = "config/byg/settings.json5"
-hash = "c60d4e23d3d8a9c84b97b54a35d02fd822ee7b2d7ce10f45b9daa6185013f4cb"
-
-[[files]]
-file = "config/byg/surface_rules/end_surface_rules.json5"
-hash = "3515ed2d93cf2664da9548beb6871e9f059ff2fcc2d42c52e7aa84307dafc2b2"
-
-[[files]]
-file = "config/byg/surface_rules/nether_surface_rules.json5"
-hash = "1c2e8e069f5b766411dabbe843d0fc905ad94785eaa111a56806e8f96c692461"
-
-[[files]]
-file = "config/byg/surface_rules/overworld_surface_rules.json5"
-hash = "7d06f57fb8ad55fb5d0ca3ee25f2b05f8e2741823bd9655498068ce12770726b"
-
-[[files]]
-file = "config/byg/trades.json5"
-hash = "454009589a1e124e443de48161f7250570aaac97dc334b2c3c973517c071c086"
 
 [[files]]
 file = "config/carryon-common.json"
@@ -273,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "a383deeb916082c57a3e55979f9609531b407011ef8c149a19d9c0ef75e41d49"
+hash = "b7a10565ba673dd7e429f5961d565b6c805164f3415cb5e3a7030a57b80ff032"
 metafile = true
 
 [[files]]
@@ -333,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7c5c3e69f7d2abcde972efc46603be697818d834f28e94bbdb4fd5ee565c1c9a"
+hash = "e37967152aa65463b0bab3ef853f54b7cfe17f633bffef66b67c3b8a4d80324f"
 metafile = true
 
 [[files]]
@@ -353,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "cc321242d70d27ad8168b08dcec277f60db25801e0bd7dcc4dcfc94b72618672"
+hash = "10c3e2bb8cc57d46886789a5e04d9f8ac169743ff84be23e04d70cc43b6be856"
 metafile = true
 
 [[files]]
@@ -393,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomesyougo.pw.toml"
-hash = "dbbe09e6693b3c8608f7831b99f66ff57a62a5dfef612295cbe144553abd7336"
+hash = "b638bb2f88a1a4c76c1712028748344a13d24358ce21cd927647cd72318c62ec"
 metafile = true
 
 [[files]]
@@ -458,12 +310,12 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "35f8aad89b7dfe7cd122f333079b3d4551e1e181aa5b5a1db26d33fff7cee49c"
+hash = "ccc1d0a939761a51fe3117c2e18c817eec3b8fbf9dc85946ba9bba4fac7a4a96"
 metafile = true
 
 [[files]]
 file = "mods/combat-roll.pw.toml"
-hash = "688c91cb44b27a6e9155b2806cd344005a5974f8207da3e7e7838235acc51da0"
+hash = "93141c1357ce7d2f01299a3738489346dafc79cf8e46e8be98516ca4c2410711"
 metafile = true
 
 [[files]]
@@ -492,8 +344,13 @@ hash = "21950f7046e9750a6714e8a3785f60acbbb6507792ed6486c9032402c90466e3"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "9322278362644f81f8cc456b622d0b761eaf2677abbaca5db1952b23098a33bb"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks-fabric.pw.toml"
-hash = "24c73ddf1c3496f897bc543f7f8f46c7a9cd06d7609c9b93bb0f39e7a58c656c"
+hash = "e29cf41956924510e6a4227c572cac9daa7672b20ad22c0601cfee857e5aec0b"
 metafile = true
 
 [[files]]
@@ -598,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-magic.pw.toml"
-hash = "4ce06a20d767c10468429e8474da87dcde4d553c439b89f53461cc17cf16b8d1"
+hash = "7f15312125ff9b251a60bcfcf6e368335d1be162a64f7ae28649b32bd9e2129f"
 metafile = true
 
 [[files]]
@@ -608,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation.pw.toml"
-hash = "f52293cc81b07666eeee3bfcf5f34039e2d2bc64cd22416b5cbdb554eec17a0e"
+hash = "92f796bb39c6235298ccf33b64505923870bc3a258cbb2114d0ec036bfe18b6d"
 metafile = true
 
 [[files]]
@@ -623,12 +480,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "d335568e8a10a9f1b14f828870474d99798f8e33b687ba1e765e7827f744fadc"
+hash = "b95018d9b0bc69b5b2209af2a09b4398efec711da76208a810ebe91c3b3ada16"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "c9b76faa13062eea32d52fac5e90ee7869700b487e53cf0307142dbaea5fb989"
+hash = "a1d7f219f9c67e391ebd46c9e5b046b511341c6e2b97285ab1f6f6a5c9175a10"
 metafile = true
 
 [[files]]
@@ -648,17 +505,17 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+hash = "bf886d03a194a4036f02afe690cb21ca346fff20f4193355994ec97f046a8809"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "cce527e82fdbc8f13fe67258090b8980e4b92551a22d5643705be6e8871b575b"
+hash = "c3b9347961a06e85aad24fa8f863f617da394df49a67b0b1a1a952ad7f0056f7"
 metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "4c7e2b50ee6e151e93461a8ee8f65ba76b1c414f37dd5a8af3b6ee26c221c758"
+hash = "6b669ec6d2ca7db5da9eea26a1bd87c74932e432037bfe6b3c010230f03b3fbd"
 metafile = true
 
 [[files]]
@@ -693,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "7ae83690f725e59e7d527fc272e16a120a7fa683f25b4e4142b121b3828ecfc5"
+hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
 
 [[files]]
@@ -713,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
-hash = "ef85214468f623d4230b403161f52fe8c9259aa2f204223bbf2ab2a762289728"
+hash = "0d9dd30438a98f3f59c0df26c433abc566d41c9a877564ddb3efcb2414850fbd"
 metafile = true
 
 [[files]]
@@ -728,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "c04bd6360ba1f3a7fbf85926cdb7ea052b7da0e57e47e3220a772817e93a36e9"
+hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
 metafile = true
 
 [[files]]
@@ -748,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1955a695f7ca2ecfc2a923d94897677ba0def8bd8532543f4d635a8498b4ec2d"
+hash = "7d36d5a19b32363dc9795b0f4610705e332c0100169b2ec4a54654b0923ba89f"
 metafile = true
 
 [[files]]
@@ -784,6 +641,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "f6a1e60bb1331e6ec936e743d86234fa68078fdf7b023b267431ed1a550df102"
+metafile = true
+
+[[files]]
+file = "mods/item-alchemy.pw.toml"
+hash = "4c92ee4142d486272e97a7f99edc04fb6d86bb75d8b6c331e6fdcef38213d8cd"
 metafile = true
 
 [[files]]
@@ -842,6 +704,11 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/led.pw.toml"
+hash = "c922a4dff188cb5be54bb1fc11d348ecc7ab66d7f18924038f6d2657e2ec73b6"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
 metafile = true
@@ -858,12 +725,17 @@ metafile = true
 
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
-hash = "cc5cbb9430eea35ef7c057f811ce47e7b8da276689ec5783e0f234bc295e289d"
+hash = "a348cac6a82b65dd907d857f1893fb44d724cd3d912975fb7325253eb7e7503a"
 metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
+metafile = true
+
+[[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "8e15e7c7fa02eeba785fe1a43b7afa77de1a2d584d00d9631abec5270c249c53"
 metafile = true
 
 [[files]]
@@ -908,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
+hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
 
 [[files]]
@@ -978,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "800e1b77a27265f4e3057e929f6453a83554af5a563effdf1d3871a5022916a4"
+hash = "bc5420f20c163dffd4c32178bfc8004da8da6e48561a3960c27537c826d85a17"
 metafile = true
 
 [[files]]
@@ -1008,7 +880,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "0f9e287c84c2463ecb376d58c8bf30cbfbfa04ec44aef2f61e36e42fe529be30"
+hash = "f2b64534ac741a2a5f4ea7aa59585e1a5e60160e65cddac301d3cf46eb335150"
 metafile = true
 
 [[files]]
@@ -1023,7 +895,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "a11bee072c28f106a16bda9987613f5a361f26215cf91c75b4210c07b2cab4ef"
+hash = "c68fd77a3e60f7bfe40892e44d94e21df68f1542230ff709525259257d3fe1ca"
 metafile = true
 
 [[files]]
@@ -1039,6 +911,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "b530e384695dc6a2af30a6383b46ec40f0823b64ac37189cfb155774d890fe4c"
+metafile = true
+
+[[files]]
+file = "mods/runes.pw.toml"
+hash = "cbd12e28db5914da3e6a0433e3ef2a1fbf3901118af6c2b4eac508f28d6ba4b2"
 metafile = true
 
 [[files]]
@@ -1069,6 +946,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "daf21f97059c241a10f8095cca9bf5226123cd108b62fe59e0010f597921353f"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "1d2098490247cd6ddb5561561f7ec6ed2ce369ca024f935c4e9d288972a5ff05"
 metafile = true
 
 [[files]]
@@ -1133,12 +1020,12 @@ metafile = true
 
 [[files]]
 file = "mods/visual-workbench.pw.toml"
-hash = "594a2e51cdcf0355c3e7a7ab029d877c98b8247f4990ff344f11c2d1110edd9e"
+hash = "7cf22d2aa1f6962cb8cfda172f9a9e480cbe5cd4e58d607d8c4d6cae88c086d2"
 metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "f0c490ddd5aa6bfd096059967f8e954b6771bcf2201ae9a6dd195e6e1b22a908"
+hash = "151a53057bd6f757ff073dd8f8344b354f872f0dc4d236daad3fffea5de0b7dc"
 metafile = true
 
 [[files]]
@@ -1148,7 +1035,12 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "c14f01a15feb562f91b9ddd95911219d1b5ef584f4f88d122deea01f4bb20c74"
+hash = "3e463b84b899f80b6744650c05d2d7560e0cf6865973e72c629d2fe1933595ad"
+metafile = true
+
+[[files]]
+file = "mods/wizards.pw.toml"
+hash = "3e34b791091d37f95ee4b5927e9265ad0d82b7bfabb96258405ea9c3622e26ca"
 metafile = true
 
 [[files]]
