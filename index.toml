@@ -829,6 +829,11 @@ hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
+file = "mods/no-unused-chunks.pw.toml"
+hash = "845943acfb23d1b1c85d6d9362cd9bb731e9c33ce9bbc5c809fe815d01007362"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
 metafile = true
