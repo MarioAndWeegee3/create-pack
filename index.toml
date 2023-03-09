@@ -124,6 +124,11 @@ hash = "60861753eab2eb7ba6885c43f178160da3573a4aa45d37329528b773be87150d"
 metafile = true
 
 [[files]]
+file = "mods/allay-in-a-bottle.pw.toml"
+hash = "c7f85f74fe32226258295d5a00d6f89eac87671dde9e32c605c9629f6b6b268b"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "b7a10565ba673dd7e429f5961d565b6c805164f3415cb5e3a7030a57b80ff032"
 metafile = true
@@ -284,8 +289,18 @@ hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
 
 [[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "72a444170f6963bc57c323f98d01d22bdcd400be26a2bfd1d3d02ea34ad096de"
+metafile = true
+
+[[files]]
 file = "mods/charm.pw.toml"
 hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "3ad091a2078e69d4ef04af6fc6cabaf8a9dc9ab4a0f66552aab6982de98361b4"
 metafile = true
 
 [[files]]
@@ -366,6 +381,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "b1aa83bed8ef891dff38190701b48f6dd70085c26159f9316334bbe85b935ead"
+metafile = true
+
+[[files]]
+file = "mods/ctm-refabricated.pw.toml"
+hash = "d2a50dfcfe1f3b064289255ceccc1850c9920f18e5dfd27bba4b88d60bf4f367"
 metafile = true
 
 [[files]]
@@ -644,11 +664,6 @@ hash = "f6a1e60bb1331e6ec936e743d86234fa68078fdf7b023b267431ed1a550df102"
 metafile = true
 
 [[files]]
-file = "mods/item-alchemy.pw.toml"
-hash = "4c92ee4142d486272e97a7f99edc04fb6d86bb75d8b6c331e6fdcef38213d8cd"
-metafile = true
-
-[[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "3c95ba1c0a5e8065fbce03ea38aef44e5dfdff2e681c81a8720e6ff543774309"
 metafile = true
@@ -731,11 +746,6 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
-metafile = true
-
-[[files]]
-file = "mods/mcpitanlibarch.pw.toml"
-hash = "8e15e7c7fa02eeba785fe1a43b7afa77de1a2d584d00d9631abec5270c249c53"
 metafile = true
 
 [[files]]
@@ -824,6 +834,11 @@ hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
 metafile = true
 
 [[files]]
+file = "mods/occlusion-culling-fix-sodium.pw.toml"
+hash = "2c645d3c34972bec5bd74a4e0a46ec1904d8da1c48eb5ac0440b2ecf16f3c49b"
+metafile = true
+
+[[files]]
 file = "mods/origins-minus.pw.toml"
 hash = "1c7b38e01cab4654b28cb11a03877833b0ceac99c8803ae436bcd4045e6bdffc"
 metafile = true
@@ -906,6 +921,11 @@ metafile = true
 [[files]]
 file = "mods/replaymod.pw.toml"
 hash = "1754083544658b344538eec2d94dbdc17f4941596fbd212a572442ba52fdf285"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "b1c66b8935441aa82483345180fe6ac215f891dfca5e144352a0fd9a50e74f35"
 metafile = true
 
 [[files]]
@@ -1026,6 +1046,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "151a53057bd6f757ff073dd8f8344b354f872f0dc4d236daad3fffea5de0b7dc"
+metafile = true
+
+[[files]]
+file = "mods/vtdownloader.pw.toml"
+hash = "b935d2b958f96006d9f39fe585a240cbcc2701fe437c49e6f7c539a1ade0bc90"
 metafile = true
 
 [[files]]
