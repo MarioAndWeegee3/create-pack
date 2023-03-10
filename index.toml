@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/corgilib.pw.toml"
-hash = "a7392bc71b4df3152d4ea77230c430d50341688e5f4fc292fdb75bdea3ef211a"
+hash = "e28cdedaa23513cebb54443ebc09287a1c174daa2cf4644b8ab08cc66075f284"
 metafile = true
 
 [[files]]
