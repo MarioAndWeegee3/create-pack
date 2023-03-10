@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "05190346d8cd9d0144dfeac6c68f766fb9f34e0b916483d5360b4883b60b282d"
+hash = "85af96424d4081c9e0bfffd6be417b880c5a44d1ea4cd3d9dc30401a0c82f7c1"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "10c3e2bb8cc57d46886789a5e04d9f8ac169743ff84be23e04d70cc43b6be856"
+hash = "878848f04fee74c36e3fe0d53e0d506d9f50966036edeb4fdd7268951cb73fc8"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomesyougo.pw.toml"
-hash = "b638bb2f88a1a4c76c1712028748344a13d24358ce21cd927647cd72318c62ec"
+hash = "f9daa7f4a22030249d4ba643df59c7fc4e49b2cdaf6fc4adb9df70a8827d3f6e"
 metafile = true
 
 [[files]]
@@ -325,12 +325,12 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "ccc1d0a939761a51fe3117c2e18c817eec3b8fbf9dc85946ba9bba4fac7a4a96"
+hash = "752ceddc274652f5245f7ec08f8287a6e2ab957d894b0d3350412ff0d9e9bccc"
 metafile = true
 
 [[files]]
 file = "mods/combat-roll.pw.toml"
-hash = "93141c1357ce7d2f01299a3738489346dafc79cf8e46e8be98516ca4c2410711"
+hash = "72727045297f448b5610bd045a422dea33ab67198d3ba545cb44223ec8b52057"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/corgilib.pw.toml"
-hash = "9322278362644f81f8cc456b622d0b761eaf2677abbaca5db1952b23098a33bb"
+hash = "a7392bc71b4df3152d4ea77230c430d50341688e5f4fc292fdb75bdea3ef211a"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/ctm-refabricated.pw.toml"
-hash = "d2a50dfcfe1f3b064289255ceccc1850c9920f18e5dfd27bba4b88d60bf4f367"
+hash = "fb0bd76a18a321c4a0fb45b88451edb15afa2ba62408d3dc3154fb75c5971920"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-anvils.pw.toml"
-hash = "66b5f16972360b8a7347c5290d48f0c8f9e56b356a800628d669b9440ff07d29"
+hash = "14c69078c27303c87020eec17e205cf2a436ad034da14a18ec315dd7b9b2b8b6"
 metafile = true
 
 [[files]]
@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-fabric.pw.toml"
-hash = "d30726cc7c3f7e819c38764c73351807fcb56bc14de011fdeabe298069b53255"
+hash = "1315ee335740551458c216045f6c0e790d0e31c547364dcecf377cc518d4a476"
 metafile = true
 
 [[files]]
@@ -725,7 +725,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
+hash = "28b3808ae3e3e5bcc8f2a6dfe40c539a2e55afd3687e41c681dc408021e395ef"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
+hash = "2f1393d78824d3e665be954e339affed26d8482d227aa3f13d6ca5d577469f8b"
 metafile = true
 
 [[files]]
@@ -940,7 +940,7 @@ metafile = true
 
 [[files]]
 file = "mods/runes.pw.toml"
-hash = "cbd12e28db5914da3e6a0433e3ef2a1fbf3901118af6c2b4eac508f28d6ba4b2"
+hash = "b912609844eac3714f53e5c2be84e38500776ca6d0031aec3e010a83d1d03d59"
 metafile = true
 
 [[files]]
@@ -975,17 +975,17 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "daf21f97059c241a10f8095cca9bf5226123cd108b62fe59e0010f597921353f"
+hash = "ee3f01a4c88b2c3e733b8dc7afb767748bb3a68e9bd85257d821f00b5cb3b78a"
 metafile = true
 
 [[files]]
 file = "mods/spell-power.pw.toml"
-hash = "1d2098490247cd6ddb5561561f7ec6ed2ce369ca024f935c4e9d288972a5ff05"
+hash = "d42d0ab907a1f8804d604bd17baf245e5c4fb3421b3d6b8569dd406ec3f42e50"
 metafile = true
 
 [[files]]
 file = "mods/spiky-spikes.pw.toml"
-hash = "487034143a048af8fbb9415aa919646302e3de8e20c28bc1bcd3b2bab83d69e8"
+hash = "2e91f437d8f28fafe94f0c7ef95e48e5e8d84126f5fa04226e1a26a0fc129557"
 metafile = true
 
 [[files]]
@@ -1070,7 +1070,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "3e34b791091d37f95ee4b5927e9265ad0d82b7bfabb96258405ea9c3622e26ca"
+hash = "706fc77f96879105f80cd3b91b5eff64257d0028d95d683ffaa19874f6c6117e"
 metafile = true
 
 [[files]]
