@@ -66,7 +66,7 @@
 "ExtraWanderingTrades Enabled" = true
 #Extract enchantments from any enchanted item into an empty book using the grindstone.
 #The player must pay a cost (in xp levels) to extract enchantments from the item.
-"ExtractEnchantments Enabled" = false
+"ExtractEnchantments Enabled" = true
 #Potion effect particles are much less obtrusive by default and can optionally be entirely hidden.
 "GentlePotionParticles Enabled" = true
 #Goats have a chance to drop mutton when killed.
@@ -306,11 +306,11 @@
 
 [ExtractEnchantments]
 	#Initial cost (in xp levels) of extraction before adding on the cost of the enchantment(s).
-	"Initial cost" = 5
+	"Initial cost" = 0
 	#Adds extra cost (in xp levels) if the enchantment is a 'treasure' enchantment such as Mending.
-	"Treasure cost" = 5
+	"Treasure cost" = 0
 	#If true, the item's repair cost will be added to the cost of extraction.
-	"Add item repair cost" = true
+	"Add item repair cost" = false
 
 [GentlePotionParticles]
 	#If true, translucent particles will be rendered.  If false, no particles will be rendered.

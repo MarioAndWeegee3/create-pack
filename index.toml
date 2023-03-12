@@ -26,7 +26,7 @@ hash = "487ebba3c8735646cfbfcf1e5c7a8a5724cc95682dbaeb95d9b56c61b054ddc5"
 
 [[files]]
 file = "config/charm.toml"
-hash = "156d6deb171fc220b16a4072fecf413f30aa51ec5f960dc3929b1314588846cb"
+hash = "b4fb5624f89dd356a2557ca27a7da2b3166eed762bb54f3793fa442ed0c61f8a"
 
 [[files]]
 file = "config/combatroll/enchantments.json"
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "752ceddc274652f5245f7ec08f8287a6e2ab957d894b0d3350412ff0d9e9bccc"
+hash = "21d96efbb73ceb5a75b39e0efb18f62eb8bf024776a28516e082a2b6f657d0a2"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "a1d7f219f9c67e391ebd46c9e5b046b511341c6e2b97285ab1f6f6a5c9175a10"
+hash = "3b4867648534487476bf69127d805d63b7f3be1455ecc20093a80b9bb8510f7d"
 metafile = true
 
 [[files]]
