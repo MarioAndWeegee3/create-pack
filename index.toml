@@ -119,6 +119,11 @@ hash = "6e631bb9b83136c92f57d67ea681afadd6a2ccbbd12d39adb735dc01f1c50811"
 metafile = true
 
 [[files]]
+file = "mods/advancements-debug.pw.toml"
+hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
+metafile = true
+
+[[files]]
 file = "mods/air-hop.pw.toml"
 hash = "60861753eab2eb7ba6885c43f178160da3573a4aa45d37329528b773be87150d"
 metafile = true
