@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/chipped.pw.toml"
-hash = "63200870a71d8a61c167e198da25cc43ca2354f587e7dc10156340c2ccf43900"
+hash = "f2bfe2b1e6e1c6b358638d1c3fd7d17a5cafeef9b3e3aab677d238f9d22e0215"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts-fabric.pw.toml"
-hash = "5d19cd64cbb1e9de6db743c89c42cb0f322fab01688749eb1101f5bf9474aee2"
+hash = "84ac3db977ae1a38c6a56b2c78a417702221002529d8f92a032bd96107ad1772"
 metafile = true
 
 [[files]]
@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
-hash = "d638cc0f9eb441b395f671e656b82786c7545d52a2d35ca48151263576d97b52"
+hash = "5fdc6d4ad76d1623062b59809f53dd11d75f8a8277fd3119afc1f6327c36ee4b"
 metafile = true
 
 [[files]]
@@ -755,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "2f1393d78824d3e665be954e339affed26d8482d227aa3f13d6ca5d577469f8b"
+hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
 
 [[files]]
@@ -905,7 +905,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "f2b64534ac741a2a5f4ea7aa59585e1a5e60160e65cddac301d3cf46eb335150"
+hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
 metafile = true
 
 [[files]]
@@ -920,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "c68fd77a3e60f7bfe40892e44d94e21df68f1542230ff709525259257d3fe1ca"
+hash = "99c8a639eaa387b2b24f1a5b3c1abd7d0573fc3010ea5558149153a0b8587017"
 metafile = true
 
 [[files]]
@@ -929,8 +929,23 @@ hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
+file = "mods/reinforced-barrels.pw.toml"
+hash = "65c5f9436a550a224a16dd25482a7282f7421fea6f5308913705af59842a264a"
+metafile = true
+
+[[files]]
+file = "mods/reinforced-chests.pw.toml"
+hash = "ef25a480535daa14950ad983c552cfcfc06e56ff4345fbbec00d7df56f49868b"
+metafile = true
+
+[[files]]
+file = "mods/reinforced-shulker-boxes.pw.toml"
+hash = "a86baaf3977b9b61422968a87bf4b4c0814e8f02704e0ea844ee8ba7a5e3ea5f"
+metafile = true
+
+[[files]]
 file = "mods/replaymod.pw.toml"
-hash = "1754083544658b344538eec2d94dbdc17f4941596fbd212a572442ba52fdf285"
+hash = "d8f84beac5936d6b4526c8118bf1335b0bc4644347ad81c88dfcd0b030abbf68"
 metafile = true
 
 [[files]]
@@ -1055,7 +1070,7 @@ metafile = true
 
 [[files]]
 file = "mods/visual-workbench.pw.toml"
-hash = "7cf22d2aa1f6962cb8cfda172f9a9e480cbe5cd4e58d607d8c4d6cae88c086d2"
+hash = "e07450f78974ba068de931778d49c0937b24d133ce023d87b09d00754e5a045a"
 metafile = true
 
 [[files]]
