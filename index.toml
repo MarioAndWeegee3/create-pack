@@ -93,6 +93,10 @@ file = "kubejs/server_scripts/elytra.js"
 hash = "66b6624b8c6d127f4ad5d84b455beacbaf868e52dbcbc8ebf26e6eee2b10d7e7"
 
 [[files]]
+file = "kubejs/server_scripts/expanded.js"
+hash = "abbb2485d360c96a714f10621c74424d1f9c76eaf6fc2dba79420988a54b3760"
+
+[[files]]
 file = "kubejs/server_scripts/glass_tag.js"
 hash = "a0d0fb71a3068878d00b1605e2e0ba796d04d679fc170325ffcfe77cb802e836"
 
@@ -936,11 +940,6 @@ metafile = true
 [[files]]
 file = "mods/reinforced-chests.pw.toml"
 hash = "ef25a480535daa14950ad983c552cfcfc06e56ff4345fbbec00d7df56f49868b"
-metafile = true
-
-[[files]]
-file = "mods/reinforced-shulker-boxes.pw.toml"
-hash = "a86baaf3977b9b61422968a87bf4b4c0814e8f02704e0ea844ee8ba7a5e3ea5f"
 metafile = true
 
 [[files]]
