@@ -288,6 +288,11 @@ hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "881ddb59302c7dd6762c06c10f6d858b74749c8aea781d02339efd482fe10a9f"
 metafile = true
@@ -389,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "b1aa83bed8ef891dff38190701b48f6dd70085c26159f9316334bbe85b935ead"
+hash = "c8e5d8df1d4425a8f2d6433794cc43fc8ca7515c1b62b626b617777be1b301b2"
 metafile = true
 
 [[files]]
@@ -543,11 +548,6 @@ hash = "c3b9347961a06e85aad24fa8f863f617da394df49a67b0b1a1a952ad7f0056f7"
 metafile = true
 
 [[files]]
-file = "mods/expanded-storage.pw.toml"
-hash = "4c7e2b50ee6e151e93461a8ee8f65ba76b1c414f37dd5a8af3b6ee26c221c758"
-metafile = true
-
-[[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "1ef7f8449365aa7f1185447ca46bc1c742e3d766c9dffb90b90447daed049042"
 metafile = true
@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-teams-fabric.pw.toml"
-hash = "7b4a6673987fc6becfc09a3e01ccce288113cfaefbbf1ad6f3bfa796c75d501a"
+hash = "1449efe94903466204743ec0f4a7b0f1dba349f4b1e6d66c1e9fd8b69fe021b3"
 metafile = true
 
 [[files]]
@@ -913,11 +913,6 @@ hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
 metafile = true
 
 [[files]]
-file = "mods/quickcarpet.pw.toml"
-hash = "69ec60a97faffe8be08789c61b29bcdf7981abf45faffbd9840213bfc046060d"
-metafile = true
-
-[[files]]
 file = "mods/quilt-loading-screen.pw.toml"
 hash = "77aa1af076bfb1175a407037a2d1db80437bae5193db45a557f5f32b3cc4a67f"
 metafile = true
@@ -949,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "79bc2d7e581506568ba61701f5d36dbbc19f415b4a59c5172b007e22032b6710"
+hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
 
 [[files]]
@@ -970,6 +965,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "a0d93d65335b5fbd999e7cf8ee5cecdcd1370b36e04a1fde6bfb86242aaed8ab"
+metafile = true
+
+[[files]]
+file = "mods/slumber.pw.toml"
+hash = "bcce957ec0c88a763be8677858b432150c4c2a12b84393f69cbca9d4ad66b346"
 metafile = true
 
 [[files]]
@@ -1010,6 +1010,11 @@ metafile = true
 [[files]]
 file = "mods/spiky-spikes.pw.toml"
 hash = "2e91f437d8f28fafe94f0c7ef95e48e5e8d84126f5fa04226e1a26a0fc129557"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "47114b8ea5314ebdaec9fdbe8d07afaf961bb872f207ea68ed9d5eb8c82ba554"
 metafile = true
 
 [[files]]
