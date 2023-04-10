@@ -393,8 +393,13 @@ hash = "8d1d92050b2d2685b8b58f43306b5766bee9d1e5281e00ac80dc4ec2fe4ab751"
 metafile = true
 
 [[files]]
+file = "mods/create-deco-fabric.pw.toml"
+hash = "9e0b5062155422d62777c15d14b7767a20d42920aaf582635680bed5ec5a0c84"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "c8e5d8df1d4425a8f2d6433794cc43fc8ca7515c1b62b626b617777be1b301b2"
+hash = "d3b6493205ea43ac22c65a229b2be0611f4c947c2180364fd5881bdef74f0104"
 metafile = true
 
 [[files]]
@@ -469,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "1bba2574a2f04ba8c037eaaa8f4b599176f20e1a5f144ee6eb55725fabdc7e44"
+hash = "9c2cd913d882b3f3a2733030c02062c10b7f55b5bef9104b303cbcd99c9f6ccd"
 metafile = true
 
 [[files]]
@@ -594,12 +599,12 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-fabric.pw.toml"
-hash = "4a4317e8aaf9ff3bfceeaa05158c03a72ba2e901ab27cec767fab51a5fbcaaae"
+hash = "331b1f7fa8a7982464ffb93c1f7171e4b4579866a920278b79090c8e4c02091d"
 metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
-hash = "5fdc6d4ad76d1623062b59809f53dd11d75f8a8277fd3119afc1f6327c36ee4b"
+hash = "fadeaf3af074696c20d84daae96044c22c60b8047fc3971120b0030f580c8993"
 metafile = true
 
 [[files]]
@@ -669,12 +674,12 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "f6a1e60bb1331e6ec936e743d86234fa68078fdf7b023b267431ed1a550df102"
+hash = "50275d876985049a0db5b260412aaad8fc9c8158cd73950b8331302c89ade4a9"
 metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "3c95ba1c0a5e8065fbce03ea38aef44e5dfdff2e681c81a8720e6ff543774309"
+hash = "cdc6994dedc82cf7807f6afbdde9000cf11841c174008b2aad20f62d9b0b08c7"
 metafile = true
 
 [[files]]
@@ -854,7 +859,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-minus.pw.toml"
-hash = "1c7b38e01cab4654b28cb11a03877833b0ceac99c8803ae436bcd4045e6bdffc"
+hash = "7a8a62a0e7fb2ff209cb8468ca6e6bd2aac3b90474222a459cfd019d998a116c"
 metafile = true
 
 [[files]]
