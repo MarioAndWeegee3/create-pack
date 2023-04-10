@@ -878,6 +878,11 @@ hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "f20bf84a820c2c157ffe838f6ea821524cfe4eb056664ac250fac5af3fbac68a"
+metafile = true
+
+[[files]]
 file = "mods/pistorder.pw.toml"
 hash = "7755d5e77698d386b2453c9f832846e746c4fc67f922ba52b52a8d90efe2b0e0"
 metafile = true
