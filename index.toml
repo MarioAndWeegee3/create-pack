@@ -478,6 +478,11 @@ hash = "9c2cd913d882b3f3a2733030c02062c10b7f55b5bef9104b303cbcd99c9f6ccd"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "9f7a178f19824682270b53db2bd6248844bf7a46e819d1bf5ba63529e84c065e"
+metafile = true
+
+[[files]]
 file = "mods/easiervillagertrading.pw.toml"
 hash = "06614c130009ac62167aa8e192875f8677570d24c0937f37f24265b3dd23fb80"
 metafile = true
@@ -639,7 +644,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "87066ad1a766c9f105f5d1c1b8f4d28f81a68f3103f51db9d867170229215ac9"
+hash = "fd0d31c123f53fb70d79e3ac5333dc9178b378c87d46eb0b8f63db324f67fe51"
 metafile = true
 
 [[files]]
@@ -859,7 +864,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-minus.pw.toml"
-hash = "7a8a62a0e7fb2ff209cb8468ca6e6bd2aac3b90474222a459cfd019d998a116c"
+hash = "4786a264f3b95a6bc78633a6318d618b652e108cb9550d3821135fac4c5d6515"
 metafile = true
 
 [[files]]
@@ -974,7 +979,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a0d93d65335b5fbd999e7cf8ee5cecdcd1370b36e04a1fde6bfb86242aaed8ab"
+hash = "5fdedc0c337505a2fc6c34674e1119a18117a2aa17c505f86d747f6b2c3f0748"
 metafile = true
 
 [[files]]
@@ -1030,6 +1035,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/suggestion-tweaker.pw.toml"
+hash = "5befa4931c70632eb117566ba1812b12c168c27f3e37f81570077e589e75da7c"
 metafile = true
 
 [[files]]
@@ -1109,7 +1119,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "706fc77f96879105f80cd3b91b5eff64257d0028d95d683ffaa19874f6c6117e"
+hash = "39e07c8ad66081feb50612d4c88f1f95d0504b2fb0ffbca257dcb0157d8ff41b"
 metafile = true
 
 [[files]]
