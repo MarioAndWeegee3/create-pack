@@ -474,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "9c2cd913d882b3f3a2733030c02062c10b7f55b5bef9104b303cbcd99c9f6ccd"
+hash = "0e7334b86fcbaa2efc05cb7c3eb7742bb0274a52e6273b02a662f1bf7811e8db"
 metafile = true
 
 [[files]]
@@ -884,7 +884,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "f20bf84a820c2c157ffe838f6ea821524cfe4eb056664ac250fac5af3fbac68a"
+hash = "a0febce406dd277730980450f98c94a80179b8df55e2136279003f30ae8eeaba"
 metafile = true
 
 [[files]]
@@ -1029,7 +1029,7 @@ metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
-hash = "47114b8ea5314ebdaec9fdbe8d07afaf961bb872f207ea68ed9d5eb8c82ba554"
+hash = "c89de9767f4e0e6fbafb8ed25c2fa71070ec327f84e7f3c28c6c14a33b495ec7"
 metafile = true
 
 [[files]]
