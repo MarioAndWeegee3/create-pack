@@ -278,6 +278,11 @@ hash = "309fa9d0ab190059d9a13933db512f36f01ec0b40f37fa6e919ec085c686df9e"
 metafile = true
 
 [[files]]
+file = "mods/bounced.pw.toml"
+hash = "c2b700ef43f0f1ec9b9ac1b23b5eac218af82634ae295fe2adc2bed508e1f1f1"
+metafile = true
+
+[[files]]
 file = "mods/calcmod.pw.toml"
 hash = "6ec0a34b79173dc6be52162787f43f6ce9e7b21b68acc3c5970dcbf0b3958875"
 metafile = true
@@ -479,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "9f7a178f19824682270b53db2bd6248844bf7a46e819d1bf5ba63529e84c065e"
+hash = "039064ec24f9e56be787202d48bdfa0b193798f08c661bd158508e64dce4cfc8"
 metafile = true
 
 [[files]]
@@ -489,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-anvils.pw.toml"
-hash = "e6cdf3f18f30cc48d1494ba5914021496f3edb2947dadb16bad5e03911a3224f"
+hash = "e8aed42ec5c235a7809cfcf8dc32494e589a02527e780635a586e2d8fea0b1f0"
 metafile = true
 
 [[files]]
@@ -533,6 +538,11 @@ hash = "0e05dae2adc425099c80c7b3a027ee63b34b5a9cc82c7085cf0b6543073a2353"
 metafile = true
 
 [[files]]
+file = "mods/emiffect.pw.toml"
+hash = "031d16eb940b9005939d24390f98f321afcbfb001a835f36c1874dd5d5cd4258"
+metafile = true
+
+[[files]]
 file = "mods/emitrades.pw.toml"
 hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
 metafile = true
@@ -548,6 +558,11 @@ hash = "d614e471929c4906f85ba776600e0cfa9b0d958ce55121efd49c9ffd4ff00a04"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "0c2e6cccd1eb490fde78f297681e3f53182d37aa8034d6efa2bcc58c5261c4e6"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "bf886d03a194a4036f02afe690cb21ca346fff20f4193355994ec97f046a8809"
 metafile = true
@@ -555,6 +570,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "c3b9347961a06e85aad24fa8f863f617da394df49a67b0b1a1a952ad7f0056f7"
+metafile = true
+
+[[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "ba9d24c505acf5a4d14c7e23e3e4eccc39a4cc3f96bfe52375e08efbd4dda6a9"
 metafile = true
 
 [[files]]
@@ -604,12 +624,12 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-fabric.pw.toml"
-hash = "331b1f7fa8a7982464ffb93c1f7171e4b4579866a920278b79090c8e4c02091d"
+hash = "bbb028d091130f01a2abe79eaad9709c2fb6684b742ea7959af466d3693f5dd0"
 metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
-hash = "fadeaf3af074696c20d84daae96044c22c60b8047fc3971120b0030f580c8993"
+hash = "be80427ed2f57d16781d2ce92b140fdb41abe875d9b791922693b012f7108c8d"
 metafile = true
 
 [[files]]
@@ -639,7 +659,12 @@ metafile = true
 
 [[files]]
 file = "mods/hotbarcycle.pw.toml"
-hash = "3d37f23b0a16f8378663b30f6ea17467564506323aefd27fc6ee8bf18a9adbef"
+hash = "c3df959c035c1b964f86bde6a97c49fa7c4130758e949b18a377ed61b40b9d31"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "a81c6e60f18faf727ed743029c8a4d093c6c96f0c450be7bf3535985ee6f4288"
 metafile = true
 
 [[files]]
@@ -914,7 +939,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "0568443a68c429253e10bee7655f0baf669f1fd8dd06b39cb83423f6c522cadc"
+hash = "269545a61478d0c92f3beecb5c41e3d0580b8a2efe204412d8f4e4734337fada"
 metafile = true
 
 [[files]]
@@ -979,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "5fdedc0c337505a2fc6c34674e1119a18117a2aa17c505f86d747f6b2c3f0748"
+hash = "2be4982347eeeab54a6bcb64f5b6d0fa854a477396e3daf221f485fe260f427d"
 metafile = true
 
 [[files]]
@@ -1063,8 +1088,8 @@ hash = "d74ff589913b6fdccfa1cc28b33e442dc2dd9a55ec5731602b691450d220f62f"
 metafile = true
 
 [[files]]
-file = "mods/toms-storage.pw.toml"
-hash = "4d817fb45630a8ea31f6f37ea93eacfdfd30cc8281f8cf4f93a039da4cea988e"
+file = "mods/toms-storage-fabric.pw.toml"
+hash = "20c3042779d6203655fc512d5ea9040c9fcbf778bc2fcda3b37d3b340ea0bf1e"
 metafile = true
 
 [[files]]
