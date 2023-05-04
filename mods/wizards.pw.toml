@@ -1,13 +1,13 @@
 name = "Wizards"
-filename = "wizards-fabric-0.9.13+1.19.jar"
+filename = "wizards-fabric-0.9.14+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NkGaQMDA/versions/6oPtnMZM/wizards-fabric-0.9.13%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/NkGaQMDA/versions/oxldoc7d/wizards-fabric-0.9.14%2B1.19.jar"
 hash-format = "sha1"
-hash = "13cf6f314bd796a2b0a58f06b999889334e127eb"
+hash = "68bc5c23b2f8096391ae03a04bb54d0332268570"
 
 [update]
 [update.modrinth]
 mod-id = "NkGaQMDA"
-version = "6oPtnMZM"
+version = "oxldoc7d"

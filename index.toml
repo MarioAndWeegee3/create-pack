@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/animal_feeding_trough.pw.toml"
-hash = "4622fb45626c72f5310606c9db18271e18a195cf7ef57707287039dd9f81a299"
+hash = "6167d9db9cba836be87f0c909576ae981f5efee25e3eca2effd03eb6d088cffe"
 metafile = true
 
 [[files]]
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "843fefd7cf34bfe36b1fb2b6dc35ddfe44db53e23637d6b2674a7fb4e05e803f"
+hash = "fdea52d254e5318fe4884301ca865356ade3f685798548aaa23804b25ff01ca1"
 metafile = true
 
 [[files]]
@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "881ddb59302c7dd6762c06c10f6d858b74749c8aea781d02339efd482fe10a9f"
+hash = "7c49c8e6fd596ed9aeacca9eb10e5c981250d200ccb8fc72ce1c9123a9635301"
 metafile = true
 
 [[files]]
@@ -384,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks-fabric.pw.toml"
-hash = "e29cf41956924510e6a4227c572cac9daa7672b20ad22c0601cfee857e5aec0b"
+hash = "8ee488d60e661662113fda4414dfba02eab59caf3813ae89eeeec54ec31246d0"
 metafile = true
 
 [[files]]
@@ -399,12 +399,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco-fabric.pw.toml"
-hash = "9e0b5062155422d62777c15d14b7767a20d42920aaf582635680bed5ec5a0c84"
+hash = "ae5f3899809a6dfc05d5b123872a49c1ebac752f2057045532307a3944a25f3a"
 metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "d3b6493205ea43ac22c65a229b2be0611f4c947c2180364fd5881bdef74f0104"
+hash = "d704cac0396798f84364471332c1d956a99433aa6dc55005153cffc5e31db262"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot-fabric.pw.toml"
-hash = "dd37b331789c533eb47ecc8e6783214f09560ff292d37e0f0a3b8329721ec7e4"
+hash = "58897adde1db0e44ae3165d9951a27493815e25334009ef33cedf9d0622c9e7c"
 metafile = true
 
 [[files]]
@@ -559,7 +559,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "0c2e6cccd1eb490fde78f297681e3f53182d37aa8034d6efa2bcc58c5261c4e6"
+hash = "bcaaa1ccbe72a964df7a8950f4f6b754cc9d1e8d20c4582141d59d8fef50b058"
 metafile = true
 
 [[files]]
@@ -569,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "c3b9347961a06e85aad24fa8f863f617da394df49a67b0b1a1a952ad7f0056f7"
+hash = "64e37fd54d2b0afced5c242e90579f321c7fa9cbf1b3270cd4c31a0575eb0e07"
 metafile = true
 
 [[files]]
@@ -584,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "df12767833f6d916dcb6f6b9a75da6a1cbc134600561bc5588c3f0cbca03c93b"
+hash = "32cff441dba71cee026356fe08147e289183532b7215071cdb0dd91af56aa643"
 metafile = true
 
 [[files]]
@@ -704,7 +704,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "8a762171b89a5265ad651263b4691a098ce6429edd74b4ddb09c7c33286fcc75"
+hash = "ec644a70524673946d8a987bbc4d3f0968c4885f55541b837ee14a366b218d35"
 metafile = true
 
 [[files]]
@@ -729,7 +729,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "91a17412411a9f57e687a0f536f902c043c24ef06571b9f2003ecdb5ee5a4f0c"
+hash = "007138c2bdd15bc860d8f0836e2a836cbe5f13f3d8ea9e9424b1422eaad87be9"
 metafile = true
 
 [[files]]
@@ -994,7 +994,7 @@ metafile = true
 
 [[files]]
 file = "mods/runes.pw.toml"
-hash = "b912609844eac3714f53e5c2be84e38500776ca6d0031aec3e010a83d1d03d59"
+hash = "1137d023cd3ca7f0b7662321e35154bb604143b8f9b7f4e89cc567e10b16d43c"
 metafile = true
 
 [[files]]
@@ -1034,17 +1034,17 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "50c06afeef4a0f87ce306a734f3a26f48a0e346bd6a42b3fb967d3ee62b65894"
+hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
 metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "ee3f01a4c88b2c3e733b8dc7afb767748bb3a68e9bd85257d821f00b5cb3b78a"
+hash = "5178c564360433d293f7daf3d3aae731cb4f4902da444b9217a1d8a7df220c91"
 metafile = true
 
 [[files]]
 file = "mods/spell-power.pw.toml"
-hash = "d42d0ab907a1f8804d604bd17baf245e5c4fb3421b3d6b8569dd406ec3f42e50"
+hash = "a722d251681a46b51288c1e12fd0da69561f6ed6c7dde01816c2c598077042e0"
 metafile = true
 
 [[files]]
@@ -1089,7 +1089,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage-fabric.pw.toml"
-hash = "20c3042779d6203655fc512d5ea9040c9fcbf778bc2fcda3b37d3b340ea0bf1e"
+hash = "3e6c29dcf5538307543c0bf5c28b031001b7d92ddadb9e8c489bf66be5b742f3"
 metafile = true
 
 [[files]]
@@ -1144,7 +1144,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "39e07c8ad66081feb50612d4c88f1f95d0504b2fb0ffbca257dcb0157d8ff41b"
+hash = "2a76ffd6689e39f4f7fdfe166f20ba8f68cccda8575128bebfabf91ff68d2df1"
 metafile = true
 
 [[files]]
