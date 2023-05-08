@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "878848f04fee74c36e3fe0d53e0d506d9f50966036edeb4fdd7268951cb73fc8"
+hash = "cc063f9a7a12cb2dd7893f8750af24552313db31592e4c52672cdb1595f168c1"
 metafile = true
 
 [[files]]
@@ -1004,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2be4982347eeeab54a6bcb64f5b6d0fa854a477396e3daf221f485fe260f427d"
+hash = "d4dad184cf58d2009aa9248e132d5d086b24f2cdbad382ec885ed9477b7d18cb"
 metafile = true
 
 [[files]]
@@ -1044,7 +1044,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-power.pw.toml"
-hash = "a722d251681a46b51288c1e12fd0da69561f6ed6c7dde01816c2c598077042e0"
+hash = "c052ff612b2989c3168559e50d77b8c6e2ff851ce7ec836a48bf82a0ab77f53c"
 metafile = true
 
 [[files]]
