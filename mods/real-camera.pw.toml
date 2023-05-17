@@ -1,0 +1,13 @@
+name = "Real Camera"
+filename = "realcamera-1.18.2-fabric-0.5.0-beta.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fYYSAh4R/versions/T6dt8OnR/realcamera-1.18.2-fabric-0.5.0-beta.jar"
+hash-format = "sha1"
+hash = "1ad87e50c526692c24e319c4cf677b1ca3945516"
+
+[update]
+[update.modrinth]
+mod-id = "fYYSAh4R"
+version = "T6dt8OnR"
