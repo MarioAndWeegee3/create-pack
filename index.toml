@@ -508,11 +508,6 @@ hash = "7f15312125ff9b251a60bcfcf6e368335d1be162a64f7ae28649b32bd9e2129f"
 metafile = true
 
 [[files]]
-file = "mods/easy-shulker-boxes.pw.toml"
-hash = "620cd60118d6879ac787a4a8c53b6cd1510bbee5295138c065520bd79b76763d"
-metafile = true
-
-[[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "92f796bb39c6235298ccf33b64505923870bc3a258cbb2114d0ec036bfe18b6d"
 metafile = true
