@@ -298,11 +298,6 @@ hash = "46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72"
 metafile = true
 
 [[files]]
-file = "mods/carry-on.pw.toml"
-hash = "7c49c8e6fd596ed9aeacca9eb10e5c981250d200ccb8fc72ce1c9123a9635301"
-metafile = true
-
-[[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
@@ -808,11 +803,6 @@ hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
-metafile = true
-
-[[files]]
 file = "mods/midnightcontrols-extra.pw.toml"
 hash = "563a2484af46ebe381f606733cce8e75450dc8de141a115bb82120ddfc47d535"
 metafile = true
@@ -1068,16 +1058,6 @@ hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
 metafile = true
 
 [[files]]
-file = "mods/spell-engine.pw.toml"
-hash = "5178c564360433d293f7daf3d3aae731cb4f4902da444b9217a1d8a7df220c91"
-metafile = true
-
-[[files]]
-file = "mods/spell-power.pw.toml"
-hash = "c052ff612b2989c3168559e50d77b8c6e2ff851ce7ec836a48bf82a0ab77f53c"
-metafile = true
-
-[[files]]
 file = "mods/spiky-spikes.pw.toml"
 hash = "2e91f437d8f28fafe94f0c7ef95e48e5e8d84126f5fa04226e1a26a0fc129557"
 metafile = true
@@ -1170,11 +1150,6 @@ metafile = true
 [[files]]
 file = "mods/wiredredstone.pw.toml"
 hash = "3e463b84b899f80b6744650c05d2d7560e0cf6865973e72c629d2fe1933595ad"
-metafile = true
-
-[[files]]
-file = "mods/wizards.pw.toml"
-hash = "2a76ffd6689e39f4f7fdfe166f20ba8f68cccda8575128bebfabf91ff68d2df1"
 metafile = true
 
 [[files]]
