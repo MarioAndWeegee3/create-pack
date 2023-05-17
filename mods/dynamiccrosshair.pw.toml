@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/ZcR9weSm/versions/AVTfWKih/dynamiccrosshair
 hash-format = "sha1"
 hash = "ed23ca0af8b9ddb1101d51825ce4a39163f1b2f1"
 
+[option]
+optional = true
+default = false
+description = "Currently, there is an issue causing the game to crash with this mod enabled. Disable it until these issues are resolved."
+
 [update]
 [update.modrinth]
 mod-id = "ZcR9weSm"
