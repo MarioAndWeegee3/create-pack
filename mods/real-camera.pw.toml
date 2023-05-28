@@ -1,13 +1,13 @@
 name = "Real Camera"
-filename = "realcamera-1.18.2-fabric-0.5.0-beta.jar"
+filename = "realcamera-1.18.2-fabric-0.5.1-beta.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/fYYSAh4R/versions/T6dt8OnR/realcamera-1.18.2-fabric-0.5.0-beta.jar"
+url = "https://cdn.modrinth.com/data/fYYSAh4R/versions/rRu9ZYBn/realcamera-1.18.2-fabric-0.5.1-beta.jar"
 hash-format = "sha1"
-hash = "1ad87e50c526692c24e319c4cf677b1ca3945516"
+hash = "41f9f7425ded99137e867587944a3f7761d950dd"
 
 [update]
 [update.modrinth]
 mod-id = "fYYSAh4R"
-version = "T6dt8OnR"
+version = "rRu9ZYBn"

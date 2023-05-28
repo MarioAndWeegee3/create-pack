@@ -1,18 +1,18 @@
 name = "Dynamic Crosshair"
-filename = "dynamiccrosshair-5.5+1.19.2-fabric.jar"
+filename = "dynamiccrosshair-5.6.1+1.19.2-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZcR9weSm/versions/AVTfWKih/dynamiccrosshair-5.5%2B1.19.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/ZcR9weSm/versions/zT12VILM/dynamiccrosshair-5.6.1%2B1.19.2-fabric.jar"
 hash-format = "sha1"
-hash = "ed23ca0af8b9ddb1101d51825ce4a39163f1b2f1"
-
-[option]
-optional = true
-default = false
-description = "Currently, there is an issue causing the game to crash with this mod enabled. Disable it until these issues are resolved."
+hash = "ef77abfb5b83bc878e02502247ed8e1d35f4a391"
 
 [update]
 [update.modrinth]
 mod-id = "ZcR9weSm"
-version = "AVTfWKih"
+version = "zT12VILM"
+
+[option]
+optional = true
+description = "The issues this mod had are now fixed. It's safe to enable it."
+default = true

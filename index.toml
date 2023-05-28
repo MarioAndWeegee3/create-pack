@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "fdea52d254e5318fe4884301ca865356ade3f685798548aaa23804b25ff01ca1"
+hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
 
 [[files]]
@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/bounced.pw.toml"
-hash = "c2b700ef43f0f1ec9b9ac1b23b5eac218af82634ae295fe2adc2bed508e1f1f1"
+hash = "4b0856e99796ee942f99feaa98bfae95104d6d929f201367bb3025f8b5c41489"
 metafile = true
 
 [[files]]
@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/corgilib.pw.toml"
-hash = "e28cdedaa23513cebb54443ebc09287a1c174daa2cf4644b8ab08cc66075f284"
+hash = "ef04850d07a0b6980b8518c1b9206d4c50c01cc39156b63e6e864cbbbf2aa5d3"
 metafile = true
 
 [[files]]
@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "19387472adafc48bf61ee2f37898bc905cb1a52ac690624824b65df23ecc9b81"
+hash = "86796149b882ec23d67bced155ebc3037d421a086504d7a3ec61408b316eb644"
 metafile = true
 
 [[files]]
@@ -529,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "0e05dae2adc425099c80c7b3a027ee63b34b5a9cc82c7085cf0b6543073a2353"
+hash = "1a5bc0f47d0a1dec0c0c68f193470758dc81afd44a40d5805b61869e4fd93ab7"
 metafile = true
 
 [[files]]
@@ -629,7 +629,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
-hash = "be80427ed2f57d16781d2ce92b140fdb41abe875d9b791922693b012f7108c8d"
+hash = "ef746e7a41f7c0c6db11ccc98fba9d0ee43b3978b181650b2ab1c45a4cdd0eb4"
 metafile = true
 
 [[files]]
@@ -864,7 +864,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "f1ca8ddc248ddaf1a95cadc741c5f8387397ecfb3c957079add3b2881629de30"
+hash = "7629f7b9bc1b04f215a4bb9e6739ba03995f12efe8a810151a152ab9f1516866"
 metafile = true
 
 [[files]]
@@ -894,7 +894,7 @@ metafile = true
 
 [[files]]
 file = "mods/occlusion-culling-fix-sodium.pw.toml"
-hash = "2c645d3c34972bec5bd74a4e0a46ec1904d8da1c48eb5ac0440b2ecf16f3c49b"
+hash = "86ace450e6ed43170f4b2ccc33d5b252e51c58bfd436ca1c8cff64c7fce5e2f6"
 metafile = true
 
 [[files]]
@@ -919,7 +919,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "a0febce406dd277730980450f98c94a80179b8df55e2136279003f30ae8eeaba"
+hash = "779391c2d3a55f6f93b1c04d332856e2033077bb049fc03c1bddc735059eaffa"
 metafile = true
 
 [[files]]
@@ -930,6 +930,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "bc5420f20c163dffd4c32178bfc8004da8da6e48561a3960c27537c826d85a17"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "590e350a65f0c6aba510dbcfaf1eab4a0dc1740b19b2e07a5ffef446e89cf1b7"
 metafile = true
 
 [[files]]
@@ -974,7 +979,7 @@ metafile = true
 
 [[files]]
 file = "mods/real-camera.pw.toml"
-hash = "c1e53e23c70db20660fca2a94d2fd6ac4d697e994b6e78d1ef0b897809e6b3f8"
+hash = "151fc02f3530cd104d843ad20ebe036e0c093323ace78878bcecfe141fd97863"
 metafile = true
 
 [[files]]
@@ -1014,7 +1019,7 @@ metafile = true
 
 [[files]]
 file = "mods/runes.pw.toml"
-hash = "1137d023cd3ca7f0b7662321e35154bb604143b8f9b7f4e89cc567e10b16d43c"
+hash = "4ad123b749b353fc99f702703a5779f542c9e4849adf274b796f476699e3d098"
 metafile = true
 
 [[files]]
@@ -1059,12 +1064,12 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "5178c564360433d293f7daf3d3aae731cb4f4902da444b9217a1d8a7df220c91"
+hash = "350c5a288b1610dbaf47d0b26325ab7ea54015fe4cf83ce49905e61da0725018"
 metafile = true
 
 [[files]]
 file = "mods/spell-power.pw.toml"
-hash = "c052ff612b2989c3168559e50d77b8c6e2ff851ce7ec836a48bf82a0ab77f53c"
+hash = "11452bbe58a5ce975bdf6245638082dcb8c646834492df6cd8718a6c756b7b18"
 metafile = true
 
 [[files]]
@@ -1164,7 +1169,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "2a76ffd6689e39f4f7fdfe166f20ba8f68cccda8575128bebfabf91ff68d2df1"
+hash = "02090c14619dbeb6ef8439b83494c3115ad188938c698d86071fe22efadba1c6"
 metafile = true
 
 [[files]]
