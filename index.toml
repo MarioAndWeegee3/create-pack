@@ -314,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/chipped.pw.toml"
-hash = "f2bfe2b1e6e1c6b358638d1c3fd7d17a5cafeef9b3e3aab677d238f9d22e0215"
+hash = "60eea1bbbf59860d54d9d66b0961e2f414586f1fbc66a416e5c02f34e883b1aa"
 metafile = true
 
 [[files]]
@@ -529,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "1a5bc0f47d0a1dec0c0c68f193470758dc81afd44a40d5805b61869e4fd93ab7"
+hash = "f84e1e13825bdc3947128a7d645a8cf90cfa13709d8f25b1e71dc62a0b39bf48"
 metafile = true
 
 [[files]]
@@ -673,6 +673,11 @@ hash = "fd0d31c123f53fb70d79e3ac5333dc9178b378c87d46eb0b8f63db324f67fe51"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "3850cf278659b33e0629f4dbe21b01b6d9174947df542b7ed618c86f3a74c7d9"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
@@ -730,6 +735,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "9596dd55a4d88a1178ec46382d1642fbb442743217c66fdc8874be4232d17e2a"
+metafile = true
+
+[[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "3a18abe31426a5abe8a607794c0d22cbb726d9c1696ef9a21edded0ff26f85a1"
 metafile = true
 
 [[files]]
@@ -919,7 +929,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "779391c2d3a55f6f93b1c04d332856e2033077bb049fc03c1bddc735059eaffa"
+hash = "8475894e2eeeaef0b12f4209b7c6da565d2d23b866437f23c70361160af17114"
 metafile = true
 
 [[files]]
@@ -1064,7 +1074,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "350c5a288b1610dbaf47d0b26325ab7ea54015fe4cf83ce49905e61da0725018"
+hash = "f5d680f3271f26571dd23887cbf7a69cb7ef53c0208337acd8f1b918ea03bffb"
 metafile = true
 
 [[files]]
@@ -1114,7 +1124,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage-fabric.pw.toml"
-hash = "3d9157354600cf9827696d3d6e373bd2459eb89a730e544898dbc3f7eaba1567"
+hash = "08d614bf65eaf44fa094e6dcaf8c8674db695ef481316bde5bb70c9f719a472d"
 metafile = true
 
 [[files]]
@@ -1169,7 +1179,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "02090c14619dbeb6ef8439b83494c3115ad188938c698d86071fe22efadba1c6"
+hash = "fbec6b40a21e3784686ba19b3aba0789a1373d0c22b7c6f075b93cc4cd999117"
 metafile = true
 
 [[files]]
