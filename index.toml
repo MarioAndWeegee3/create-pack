@@ -93,14 +93,6 @@ file = "kubejs/server_scripts/elytra.js"
 hash = "66b6624b8c6d127f4ad5d84b455beacbaf868e52dbcbc8ebf26e6eee2b10d7e7"
 
 [[files]]
-file = "kubejs/server_scripts/expanded.js"
-hash = "abbb2485d360c96a714f10621c74424d1f9c76eaf6fc2dba79420988a54b3760"
-
-[[files]]
-file = "kubejs/server_scripts/glass_tag.js"
-hash = "a0d0fb71a3068878d00b1605e2e0ba796d04d679fc170325ffcfe77cb802e836"
-
-[[files]]
 file = "kubejs/server_scripts/shulker.js"
 hash = "3026375b6f760e22e9bb6cf91578e1f00fe44695f6bfc88f5f973ad31fb3f800"
 
@@ -110,7 +102,7 @@ hash = "5f84297c528763bbee7b44d68dd63e947b29bee27e7783edbf74ceba68c4bc09"
 
 [[files]]
 file = "kubejs/server_scripts/wood_recipes.js"
-hash = "084ca1c9f48f2003019a36ae8af39cb6b491b6911f060179f695716cc5e94941"
+hash = "e47df88c1e1a06caac55ab553b62e041fa743f96b29746a545221068474da41e"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -428,11 +420,6 @@ hash = "ee791485dbd1008c51079c693960b6555311d2fc44d2a4901b7f4455d00eea24"
 metafile = true
 
 [[files]]
-file = "mods/dashloader.pw.toml"
-hash = "8804070ff3a1eee8e7a6d2b91de65fea120fcab35210de69b4c7f092a430f0b8"
-metafile = true
-
-[[files]]
 file = "mods/dcwa.pw.toml"
 hash = "6ec1e483b01e1feb7bb64f2f017bfd0f8a28b48a863b0c325ab7c78c86b9e2ad"
 metafile = true
@@ -529,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "f84e1e13825bdc3947128a7d645a8cf90cfa13709d8f25b1e71dc62a0b39bf48"
+hash = "0095de6d3525f5d5685df3c5476b09cf2a0fab26c755dac2692e79ee49e2ecaa"
 metafile = true
 
 [[files]]
@@ -649,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/globalpacks.pw.toml"
-hash = "7cc764aef1bb942d7c5079f4f0c7a6e3a538e043d33186a64890ed869f56dc42"
+hash = "3960ed549960b02e38396220feaf79595dc2609caeb45ae01274c405690cb361"
 metafile = true
 
 [[files]]
@@ -829,7 +816,7 @@ metafile = true
 
 [[files]]
 file = "mods/missing-wilds.pw.toml"
-hash = "b5fe555103b7d74bee3d0fcb995340c4a3bc9e7aa36b4d65cfdff12aad5e3cd6"
+hash = "ba58ee67a0c6af7464644d2095fba7c5590a1822a8d5e44afc787e92cd8f85ad"
 metafile = true
 
 [[files]]
@@ -845,6 +832,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "9d903fdb128e98639fca7b110c1d1993bfaddc9025ccbe0d03753c429f895134"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "86f483f1ce24f9738708fcae0107f22f71928c8334ce5a74875e3b72d5f90b0e"
 metafile = true
 
 [[files]]
@@ -989,12 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/real-camera.pw.toml"
-hash = "151fc02f3530cd104d843ad20ebe036e0c093323ace78878bcecfe141fd97863"
-metafile = true
-
-[[files]]
-file = "mods/recursiveresources.pw.toml"
-hash = "e24fd9543ff4c9c42a63e5fff7b11da6db78e2fd0068c3b6fe056f1c4153e4c3"
+hash = "306908d3ce67b6352c00b1c50e610259104b1a46b8d8e975142507139db56cfa"
 metafile = true
 
 [[files]]
@@ -1020,6 +1007,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "889ce5246318a3827fcb5f4dc2ebd2f1bec596e230d1b148ecb85b655180d1c7"
 metafile = true
 
 [[files]]
@@ -1074,7 +1066,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "f5d680f3271f26571dd23887cbf7a69cb7ef53c0208337acd8f1b918ea03bffb"
+hash = "c9ef27bd2b5e7f7cc22680b9ed8782f9e0a3664a23fd3ef8627dd3b3621189a5"
 metafile = true
 
 [[files]]
@@ -1114,7 +1106,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
-hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
+hash = "6609d4f430acb8d486583759dbe8313904ccb839b0ef073a97030c89f43c2907"
 metafile = true
 
 [[files]]
@@ -1160,11 +1152,6 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "151a53057bd6f757ff073dd8f8344b354f872f0dc4d236daad3fffea5de0b7dc"
-metafile = true
-
-[[files]]
-file = "mods/vtdownloader.pw.toml"
-hash = "b935d2b958f96006d9f39fe585a240cbcc2701fe437c49e6f7c539a1ade0bc90"
 metafile = true
 
 [[files]]

@@ -13,4 +13,12 @@ ServerEvents.recipes(event => {
     ], {
         l: '#minecraft:logs',
     })
+
+    event.shaped('24x minecraft:ladder', [
+        'l l',
+        'lll',
+        'l l',
+    ], {
+        l: '#minecraft:logs',
+    })
 })
