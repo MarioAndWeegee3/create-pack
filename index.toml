@@ -275,11 +275,6 @@ hash = "4b0856e99796ee942f99feaa98bfae95104d6d929f201367bb3025f8b5c41489"
 metafile = true
 
 [[files]]
-file = "mods/calcmod.pw.toml"
-hash = "b03b84c80b768f41069027287b7326a7f9cb2b5e2e82354378526ef5d622419b"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
