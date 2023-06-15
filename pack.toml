@@ -1,12 +1,12 @@
 name = "Create Pack"
 author = "MarioAndWeegee3"
-version = "0.21.1"
+version = "0.21.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d94b28e043fa193a141e1724b7888793f5fe83583697d160cdc2d515d4152593"
+hash = "8ce9628d6df61345b8b79d3d4f125007c651576ab5837bc2041a79abd058b147"
 
 [versions]
 minecraft = "1.19.2"
