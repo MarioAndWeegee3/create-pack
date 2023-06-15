@@ -1115,8 +1115,8 @@ hash = "d74ff589913b6fdccfa1cc28b33e442dc2dd9a55ec5731602b691450d220f62f"
 metafile = true
 
 [[files]]
-file = "mods/toms-storage-fabric.pw.toml"
-hash = "e52817378d462a9131f0743a4a64c26fcd1b1c1947bdc161d9104fcaa54ed177"
+file = "mods/toms-storage.pw.toml"
+hash = "d054cb611705f285f78808be09ef846d88c1026e8940e3aacd6422ec6063ce1b"
 metafile = true
 
 [[files]]
