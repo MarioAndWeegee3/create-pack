@@ -61,6 +61,10 @@ file = "config/freecam.json5"
 hash = "bce1fa7c1ca0c8dd0499918f1380c16bdb00f3a679bb0a412b30d22704178d7f"
 
 [[files]]
+file = "config/fwaystones/config.json5"
+hash = "cea123b2a5cac1a450d79b7c9b0a3cd9f348474b46e2647f5332ef5ed71410e4"
+
+[[files]]
 file = "config/grindenchantments.json"
 hash = "ae8e64e1749aa6406dc124ed7c2bd1e302f5c9f273e55f6e08161a50555bbd3f"
 
@@ -95,6 +99,10 @@ hash = "66b6624b8c6d127f4ad5d84b455beacbaf868e52dbcbc8ebf26e6eee2b10d7e7"
 [[files]]
 file = "kubejs/server_scripts/shulker.js"
 hash = "3026375b6f760e22e9bb6cf91578e1f00fe44695f6bfc88f5f973ad31fb3f800"
+
+[[files]]
+file = "kubejs/server_scripts/totem.js"
+hash = "5b160df51d31659df629b5a6a9ed4de634a6f08ebc1021521cbe451ec185cca2"
 
 [[files]]
 file = "kubejs/server_scripts/wither_skull.js"
@@ -256,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/blahaj.pw.toml"
-hash = "e764ff745e74ab31545221f386e8f298dcd25314dd56976580923b91948999ca"
+hash = "422269e01109affac0ca7810c92a6528a050ae95f90185c6ee0baa8f1dc7fad9"
 metafile = true
 
 [[files]]
@@ -326,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "5f536fdf4605781e92b62b7a949e937c13cb3c73cf511002c32dcef2cef56edd"
+hash = "fb3c05dadb90256a0117efc6154f7fa8c8fd01c66d462b3758f13b61cabdd722"
 metafile = true
 
 [[files]]
@@ -630,6 +638,11 @@ hash = "4c7f9ede557a6cca6678cfd3992b99e6ac18bc5452b7570787bd5a8651ca4134"
 metafile = true
 
 [[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "577d6d70b5a7ab61e454ac05d0753bce12726499da97416025285f863308fc89"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
 metafile = true
@@ -637,6 +650,11 @@ metafile = true
 [[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "2f3d78980ca33ab11a46413f80bcd53f7d14245759006a158b05da6d2ebee63a"
+metafile = true
+
+[[files]]
+file = "mods/gotta-go-fast-fabric.pw.toml"
+hash = "1f202c03d7e9bb50f0c548336fe47c6f37d8f4d39907c243cab782de87dccc25"
 metafile = true
 
 [[files]]
@@ -661,7 +679,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "3850cf278659b33e0629f4dbe21b01b6d9174947df542b7ed618c86f3a74c7d9"
+hash = "7633f2b06ec5fa608b6293978d6781efa713e0a497a3214174e98f935408c3dd"
 metafile = true
 
 [[files]]
@@ -836,7 +854,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "592e92dccd8bed19d6041867ad4bc642eff6c5a7d957ed133c7bbd575910ccbc"
+hash = "3e03dc11cfa384a4b5d44eee958a27d4917fa11dfcb663f8cfb7902a744e000e"
 metafile = true
 
 [[files]]
@@ -1011,7 +1029,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "58bf5556cb2e901ceb419f2553f560e24406d5c5db2e5f7159ea3a67d914f389"
+hash = "df431dc0ae8c16477fd51c5b40cfd032d11072cfbd8c9f06a69356cacc1807c4"
 metafile = true
 
 [[files]]
@@ -1117,11 +1135,6 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "d054cb611705f285f78808be09ef846d88c1026e8940e3aacd6422ec6063ce1b"
-metafile = true
-
-[[files]]
-file = "mods/too-fast.pw.toml"
-hash = "6ef6600bda4c393935c9f984d9fd7603c34d50c3efec660e14fa5b7de75de6d1"
 metafile = true
 
 [[files]]
