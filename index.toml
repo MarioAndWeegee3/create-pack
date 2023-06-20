@@ -393,11 +393,6 @@ hash = "8d1d92050b2d2685b8b58f43306b5766bee9d1e5281e00ac80dc4ec2fe4ab751"
 metafile = true
 
 [[files]]
-file = "mods/create-deco-fabric.pw.toml"
-hash = "ae5f3899809a6dfc05d5b123872a49c1ebac752f2057045532307a3944a25f3a"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "e9ca0f5ceeb8c3dc5117d3bc0d5fd5756eb2763e8ae148e8053396726cc06259"
 metafile = true
@@ -909,7 +904,7 @@ metafile = true
 
 [[files]]
 file = "mods/occlusion-culling-fix-sodium.pw.toml"
-hash = "86ace450e6ed43170f4b2ccc33d5b252e51c58bfd436ca1c8cff64c7fce5e2f6"
+hash = "5957a81a28dfed4f440a9d59b68cc8055f1e295264186fe89b4c70d5f552570e"
 metafile = true
 
 [[files]]
@@ -1014,7 +1009,7 @@ metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "d8f84beac5936d6b4526c8118bf1335b0bc4644347ad81c88dfcd0b030abbf68"
+hash = "3bba48ac1f7b8a7b904e55205a91fc2ade54aa80b6ab5c8300938fd4b1125cd2"
 metafile = true
 
 [[files]]
@@ -1169,7 +1164,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "3e463b84b899f80b6744650c05d2d7560e0cf6865973e72c629d2fe1933595ad"
+hash = "2fc38ba76ead2e24de4c7cf5052c1081a3a8a912cdcd62bcbf4c9342e7b84ffc"
 metafile = true
 
 [[files]]
