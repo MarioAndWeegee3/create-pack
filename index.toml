@@ -514,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "34cfd4a1ee8dda9c94dc45f6c70686cee5c8287099a261e913d4223750ffe53c"
+hash = "0692059aa9d74400804eaa6030158a251296b280b91a82eb55757c2f2ccf8972"
 metafile = true
 
 [[files]]
@@ -829,7 +829,7 @@ metafile = true
 
 [[files]]
 file = "mods/missing-wilds.pw.toml"
-hash = "ba58ee67a0c6af7464644d2095fba7c5590a1822a8d5e44afc787e92cd8f85ad"
+hash = "845cf989b3d3b99ebe2cc919d0cc1f54e67ce17474ce8fa523e792fbe9299f17"
 metafile = true
 
 [[files]]
@@ -849,7 +849,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "3e03dc11cfa384a4b5d44eee958a27d4917fa11dfcb663f8cfb7902a744e000e"
+hash = "28a6aa4896605771422f8e3a4eb570bcf1204ad77c2a8ef0cf728325a440807c"
 metafile = true
 
 [[files]]
@@ -934,7 +934,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "8475894e2eeeaef0b12f4209b7c6da565d2d23b866437f23c70361160af17114"
+hash = "e6ad8855aee828b004b5be87f5cad12dbc9de346e7200add290b1b93a2a0ad5c"
 metafile = true
 
 [[files]]
@@ -969,7 +969,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "a4ac9aff978925a9d00664db10c96760cd13fc9cee8fab85bcd242f19691ee52"
+hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
 metafile = true
 
 [[files]]
@@ -1044,7 +1044,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "10696b23b4f65ef1532b6bd26c87c510a6cefc8f2d1c81f4ac5e06f7e3b71492"
+hash = "8b0e4448667c577d69b0158a55a4d433737e6db0e7db7a26f57574a91f9890d6"
 metafile = true
 
 [[files]]
