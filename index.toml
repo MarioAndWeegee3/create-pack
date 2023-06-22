@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomesyougo.pw.toml"
-hash = "340b0722d813fba3a58ea3312c0c2fdeb077d31c98e9bba4bd79a5199d5e33d1"
+hash = "acd9476ac98a405edb48e5affa6805d9cfc70f02ed624a5146e14e86fcc98b23"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "66a4e346ba4916c93230f0b45db908d1356c3b7ce4534a1e564efe8e565ca38b"
+hash = "1584c24561d1b84c8a0be57cdb1c36d4330014ffa43873d030d0ea191ec89c54"
 metafile = true
 
 [[files]]
