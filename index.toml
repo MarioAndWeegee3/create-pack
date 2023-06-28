@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "4045f332238c87efac25b33c3efba97ab9f548d5b37b4452aef32721bc40a42c"
+hash = "c7330ba6abcb6f74e184ac970ff66d8efbea5cb3e4cd747b9d1ae14aaac9279e"
 metafile = true
 
 [[files]]
@@ -275,6 +275,11 @@ metafile = true
 [[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "309fa9d0ab190059d9a13933db512f36f01ec0b40f37fa6e919ec085c686df9e"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "33d8e4f2b5e3546f8dd4df0aadcc374b2b1e811f456bdea741dc53b94ac22f11"
 metafile = true
 
 [[files]]
@@ -464,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "3fd0f7b732c9a29c1115b0885c05cf31e42d14bf66dd14178ef4d3db8944bcef"
+hash = "87a117c4ff644357e8b68a1210ba03f67b8fffcb6d8e0e52849d4a81f4a28135"
 metafile = true
 
 [[files]]
@@ -509,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "8f7e061bcc172caeaf207c072cb4fe91982db1f193a2490b8d4cd0d0247c9649"
+hash = "648e40ae6800f9d52f0904a0e26f4528aece26856fd7f6dd9f2ccdfdc2d1e2e3"
 metafile = true
 
 [[files]]
@@ -619,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-teams-fabric.pw.toml"
-hash = "1449efe94903466204743ec0f4a7b0f1dba349f4b1e6d66c1e9fd8b69fe021b3"
+hash = "191e7106a3915d5946487cbf827befceed9896ea937a99a12a73a702c31a707d"
 metafile = true
 
 [[files]]
@@ -899,7 +904,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-unused-chunks.pw.toml"
-hash = "845943acfb23d1b1c85d6d9362cd9bb731e9c33ce9bbc5c809fe815d01007362"
+hash = "c0259d27c2217e9414d363b9d1a8c373a4f9270abf565f0af7ce97aafe3bfdd5"
 metafile = true
 
 [[files]]
@@ -914,7 +919,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-minus.pw.toml"
-hash = "4786a264f3b95a6bc78633a6318d618b652e108cb9550d3821135fac4c5d6515"
+hash = "00794d58de437bb8562c84f67f127171e13d5b587f095ad7d105e800329d990d"
 metafile = true
 
 [[files]]
