@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+hash = "d1dc8ac9ea0e5aed978c464ff34e460924dfc44d518eece4abbbfb9a5d49abf8"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "0692059aa9d74400804eaa6030158a251296b280b91a82eb55757c2f2ccf8972"
+hash = "8d2e5f62492df45adc24c08b98280fb623adb4cb081304b2595cbacbb01fe4c7"
 metafile = true
 
 [[files]]
@@ -739,7 +739,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap-integration.pw.toml"
-hash = "5c7115b024debc68cdd475cab3936091a0847df4870adf4f4f4ea12a3e6887fd"
+hash = "f697b5d6c5035f363dfd0e5776c6d6a513a46f058ad19cdab190a9ce94bd5945"
 metafile = true
 
 [[files]]
@@ -859,7 +859,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "2cc018c3b7c8cd4a87da0ad395bfbb27dbe99bca40314a1568ce18ea57a025dc"
+hash = "a6cb2c7d9d326869e25e5942484259c4b2708fbedb0ce3b0b11de1e40657b9e1"
 metafile = true
 
 [[files]]
@@ -964,7 +964,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph-fabric.pw.toml"
-hash = "7a299dc304b7b257034333f7a136a516967122049ddd22d866e61214c60b5507"
+hash = "7531ed67008b55c1696038baa293d0eb41fdb758ac90c930b8db2c1581a48b06"
 metafile = true
 
 [[files]]
@@ -999,7 +999,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "99c8a639eaa387b2b24f1a5b3c1abd7d0573fc3010ea5558149153a0b8587017"
+hash = "0eea442b4036bf70de79d59b101c2c5664a285593dddbc5c5cbf21606def0251"
 metafile = true
 
 [[files]]
