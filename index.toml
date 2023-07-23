@@ -458,6 +458,11 @@ hash = "6e94a2241d03fff4d1eef01a82f161f741a76bc61d02ead1dcfeda76e84a815b"
 metafile = true
 
 [[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "1525fda3c15d2ccd5bff8bb01a7cd5dbfab6d4c0b3269295951792a20b93ef56"
+metafile = true
+
+[[files]]
 file = "mods/durabilityviewer.pw.toml"
 hash = "84c3fa8f432a1f7d8692e7a52f5c4a7b60c5c215a1329af48df76544e72b90d6"
 metafile = true
@@ -713,6 +718,11 @@ hash = "373a56d7f4fb25661a0585492f7ea490e7613f1191e588fec08782438d52e1fd"
 metafile = true
 
 [[files]]
+file = "mods/integrated-circuit.pw.toml"
+hash = "8dfdfcf79c7aed5efdcd1cf2895a7e32be73d27816408118d437ccfad1099422"
+metafile = true
+
+[[files]]
 file = "mods/invmove.pw.toml"
 hash = "67297b00811f866cfc94ffb2dc88c77d1c0f0121c4f21a7c844f5003c06ab631"
 metafile = true
@@ -893,6 +903,11 @@ hash = "7629f7b9bc1b04f215a4bb9e6739ba03995f12efe8a810151a152ab9f1516866"
 metafile = true
 
 [[files]]
+file = "mods/myloot.pw.toml"
+hash = "777a1bf2e8385c726a6d13853042bb292d40538f5db76bff26c6c135e1d0645f"
+metafile = true
+
+[[files]]
 file = "mods/new-infinity-fix.pw.toml"
 hash = "d17a58ebd14f48d6cd5cb75702f1aed1b9214f1a398f3f19aeeae2c89b4f0777"
 metafile = true
@@ -998,11 +1013,6 @@ hash = "77aa1af076bfb1175a407037a2d1db80437bae5193db45a557f5f32b3cc4a67f"
 metafile = true
 
 [[files]]
-file = "mods/raised.pw.toml"
-hash = "967cbd181fb2003617e19806b005423226471940b1482e6647c8770ed3bbd6dd"
-metafile = true
-
-[[files]]
 file = "mods/real-camera.pw.toml"
 hash = "4ecdd1783e6d42f8f8202b91f33286121f42f9ca7791c5381555a4286d18ccd8"
 metafile = true
@@ -1058,6 +1068,11 @@ hash = "82cee97a841fa3d0e8dd2d73a0161c032acf8ad1033f052044990ac1a45a4e9b"
 metafile = true
 
 [[files]]
+file = "mods/sizeshiftingpotions.pw.toml"
+hash = "4089b257b2607198601115860626d595f72bd5a4faada9ae2606b9e981bcbb2c"
+metafile = true
+
+[[files]]
 file = "mods/slumber.pw.toml"
 hash = "bcce957ec0c88a763be8677858b432150c4c2a12b84393f69cbca9d4ad66b346"
 metafile = true
@@ -1103,6 +1118,11 @@ hash = "2e91f437d8f28fafe94f0c7ef95e48e5e8d84126f5fa04226e1a26a0fc129557"
 metafile = true
 
 [[files]]
+file = "mods/spoornpacks.pw.toml"
+hash = "3abe75fd690b76a160320df05906397a7bf2091ee600f4f825127c5b6f5d05a1"
+metafile = true
+
+[[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "c89de9767f4e0e6fbafb8ed25c2fa71070ec327f84e7f3c28c6c14a33b495ec7"
 metafile = true
@@ -1115,6 +1135,11 @@ metafile = true
 [[files]]
 file = "mods/suggestion-tweaker.pw.toml"
 hash = "3e8420ff17d3359e2449e2ec24809c3eb63a253baa8f57a0f068b227a2a61b86"
+metafile = true
+
+[[files]]
+file = "mods/talkbubbles.pw.toml"
+hash = "4833ab71eda9697a3109ef1044db26c75514ac484cfb68d77f938abf67e73530"
 metafile = true
 
 [[files]]
@@ -1190,6 +1215,11 @@ metafile = true
 [[files]]
 file = "mods/wmitaf.pw.toml"
 hash = "b1c360efac16181859902e289a323b7c7e5b38e57dcb9881d94dc28be99c1a62"
+metafile = true
+
+[[files]]
+file = "mods/xxl-packets.pw.toml"
+hash = "81986b313364223589032e4ae6ebc9433e48e6546ac5c25a66dc9bd54300acf2"
 metafile = true
 
 [[files]]
