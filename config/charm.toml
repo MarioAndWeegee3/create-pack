@@ -125,7 +125,7 @@
 #This is an opinionated feature designed to force the player to explore and so is disabled by default.
 "NoTreasureEnchantmentTrading Enabled" = false
 #Automatically opens double doors.
-"OpenBothDoors Enabled" = true
+"OpenBothDoors Enabled" = false
 #Parrots stay on your shoulder when jumping and falling. Crouch to make them dismount.
 "ParrotsStayOnShoulder Enabled" = true
 #Right-clicking on a grass path block with a hoe turns it back into dirt.
