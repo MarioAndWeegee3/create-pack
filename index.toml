@@ -174,12 +174,12 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "c03a4530cf7645c69c164d1c6808e3d576b6d807a41569ff0c3619e9458da5c4"
+hash = "9aad15cce412d016d9489075c3f3269e2dff2de1c6cd9eb094da703f419358b7"
 metafile = true
 
 [[files]]
 file = "mods/axes-are-weapons.pw.toml"
-hash = "bb2ce8c40f0e18b52e146b304ace367e92d5e904a7c6ff2da532cfd20af1404d"
+hash = "52633db2b9143bc2a80a505cc72821eab7eac86ab53f7ca192d58575ffbdbcb9"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "1584c24561d1b84c8a0be57cdb1c36d4330014ffa43873d030d0ea191ec89c54"
+hash = "bd4c1da41f5e44004db0920732d151566f06631bf5c0579092e15d0ddc688a52"
 metafile = true
 
 [[files]]
@@ -474,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "b03c0c9616b8e790ca01054d8be91c2d6b62b26e7c9262ec7b0a70fb07e6a7f5"
+hash = "b066bbf1fd98c8ec52dfb0d9f041572b4d1680ddf33932266ce334800891338d"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "8d2e5f62492df45adc24c08b98280fb623adb4cb081304b2595cbacbb01fe4c7"
+hash = "75ea259d1fb9b5eafb492fc393191be53fc7d548ebc497350f296cd7257079f0"
 metafile = true
 
 [[files]]
@@ -549,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "290d36293a86ebdf7aec0ea84aa975eaccd7d7878b32d06fe1e0a0376d5441a5"
+hash = "b530adad65cbbef684e41627b20e1bda58b9a80999742015a043e8d1e01965ca"
 metafile = true
 
 [[files]]
@@ -569,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "1ef7f8449365aa7f1185447ca46bc1c742e3d766c9dffb90b90447daed049042"
+hash = "9cdd6767e3a3622ef53706bc9737c8ad771cf08590c7053b86a0c639f447b379"
 metafile = true
 
 [[files]]
@@ -624,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
-hash = "ef746e7a41f7c0c6db11ccc98fba9d0ee43b3978b181650b2ab1c45a4cdd0eb4"
+hash = "03222969d052db8ce918b4804c31af49414acdde15226cdd2116edbe1bb81f6f"
 metafile = true
 
 [[files]]
@@ -759,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "707f084564b8548690f44fc42d81854f84ca874bbbace121600fb67b0a979a4e"
+hash = "ced53d0f36452d5d6b6b97e10cb2a69b4c306dd42ef7b6afe849e27bd3b33249"
 metafile = true
 
 [[files]]
@@ -859,7 +859,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a6cb2c7d9d326869e25e5942484259c4b2708fbedb0ce3b0b11de1e40657b9e1"
+hash = "78bce2e3d381bc4f4b54eda8a0caa3b299b5efe3cfea0f2b636573c6e20842cc"
 metafile = true
 
 [[files]]
@@ -944,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "e6ad8855aee828b004b5be87f5cad12dbc9de346e7200add290b1b93a2a0ad5c"
+hash = "d46a3fac2fdeb35c27e7245fa162ccde40dd449dbe4812d162c13d95d742ccc3"
 metafile = true
 
 [[files]]
@@ -999,7 +999,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "0eea442b4036bf70de79d59b101c2c5664a285593dddbc5c5cbf21606def0251"
+hash = "967cbd181fb2003617e19806b005423226471940b1482e6647c8770ed3bbd6dd"
 metafile = true
 
 [[files]]
@@ -1054,7 +1054,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "337798d0bf6473dbb69536ce0ddff4eec0cdb79c64857270162d3222e3112169"
+hash = "82cee97a841fa3d0e8dd2d73a0161c032acf8ad1033f052044990ac1a45a4e9b"
 metafile = true
 
 [[files]]
@@ -1089,7 +1089,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "c9ef27bd2b5e7f7cc22680b9ed8782f9e0a3664a23fd3ef8627dd3b3621189a5"
+hash = "66166f4618d82456a0d3d17a9d712f1d1341658ff81dfef590e144019b8bed91"
 metafile = true
 
 [[files]]
@@ -1139,7 +1139,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "e4499d0bf9aaf0d8559f6dab1021998b5133b814d3571749ba1e7b66ff2d59a5"
+hash = "30a3e3f7f468a6b0c2d65fcaab7ff138881c0a921316fa721a5c3a1d77ec4bac"
 metafile = true
 
 [[files]]
