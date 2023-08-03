@@ -534,7 +534,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "8a28e61a9ef2267e8fb1152a460b71d18ae08cea0ede3a8c85f51e1482b79fad"
+hash = "d0e79f62e18b0e93ab62d2a3d6fd139a2d40e9839eb359f2fad2e1ec12dc7b81"
 metafile = true
 
 [[files]]
@@ -694,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "7633f2b06ec5fa608b6293978d6781efa713e0a497a3214174e98f935408c3dd"
+hash = "3965557496e53c81de1720ab5533f6387eae2a033117ddc67e49885fe3300516"
 metafile = true
 
 [[files]]
