@@ -303,6 +303,11 @@ hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
 
 [[files]]
+file = "mods/chainmail-bucket.pw.toml"
+hash = "17dd0ee7a0fad2343fbce9b6ef4db2e623fc813aadb4c9bd484ddc7c1d210004"
+metafile = true
+
+[[files]]
 file = "mods/charm.pw.toml"
 hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
 metafile = true
@@ -734,7 +739,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "af3675c9022d8669af5486c58fa9a685189a579a772a4c2ea5705bbe29bb169d"
+hash = "b50e20549a820d067ba78729ff9612f45ca69356698de1c1e2838ae09ab4c63f"
 metafile = true
 
 [[files]]
@@ -774,7 +779,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "140098082dc25f1290d6a18a5959e2c01b717825c58d588844f90b76d3afb8ff"
+hash = "b15da0d3592744b66992ffa27c6d8938e175806a93bb85d6785a0b4bfc651da4"
 metafile = true
 
 [[files]]
@@ -874,7 +879,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "fae507c732292cd2a041116bd02531b09227f99330ee7359ef413905d8551406"
+hash = "093bdddfd69509b986e8aa8fd2769f15b153a55d00bd790124d09723fd2ad9d2"
 metafile = true
 
 [[files]]
@@ -904,7 +909,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "6443d944277f79d1ffd4859d2b4c03b7d72e4b8053371735cfdb6044bb40ada2"
+hash = "bda5ebae56f29e29c839492b949cab052d7beec4c6149dd1540a414769ec2a1f"
 metafile = true
 
 [[files]]
@@ -964,7 +969,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "d46a3fac2fdeb35c27e7245fa162ccde40dd449dbe4812d162c13d95d742ccc3"
+hash = "1e1e434f917fde38e55d7783569083b327c918a2c567b5d4967e6446b69d9d9f"
 metafile = true
 
 [[files]]

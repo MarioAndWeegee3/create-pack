@@ -1,0 +1,13 @@
+name = "Chainmail Bucket"
+filename = "chainmail_bucket-1.0.2+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cOZUVDP9/versions/pjpWoujY/chainmail_bucket-1.0.2%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "1d032373b8b4f2bf9e25d924c986e8860f513d05"
+
+[update]
+[update.modrinth]
+mod-id = "cOZUVDP9"
+version = "pjpWoujY"
