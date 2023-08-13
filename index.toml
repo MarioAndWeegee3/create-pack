@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/axes-are-weapons.pw.toml"
-hash = "52633db2b9143bc2a80a505cc72821eab7eac86ab53f7ca192d58575ffbdbcb9"
+hash = "b855ca0df017148b3f0f6bd4ce344799951a4cc863983c95745cb524b8c266e0"
 metafile = true
 
 [[files]]
@@ -539,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "d0e79f62e18b0e93ab62d2a3d6fd139a2d40e9839eb359f2fad2e1ec12dc7b81"
+hash = "10eb7188bdcac0c2921050239e6c59ff85a9ee56071a5edf38f5a904d3edb08d"
 metafile = true
 
 [[files]]
@@ -694,12 +694,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "fd0d31c123f53fb70d79e3ac5333dc9178b378c87d46eb0b8f63db324f67fe51"
+hash = "a31d322db7fc41eeb9ce86c63d5a048c334c929b6e586eefe56565cb43c3056c"
 metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "3965557496e53c81de1720ab5533f6387eae2a033117ddc67e49885fe3300516"
+hash = "9285fdb5c083515cb5e88a3635bdd165f3d3fd046988c9781d55deac4b70ddb4"
 metafile = true
 
 [[files]]
@@ -819,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmft.pw.toml"
-hash = "d15b875187fcf249170dc3fead1533cf473f7e788aac62292890c511a0bc2783"
+hash = "3956ed24d751a2d0b7eaf5668358f7124550fb96ff0fe569378141fe08cc215a"
 metafile = true
 
 [[files]]
@@ -829,7 +829,7 @@ metafile = true
 
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
-hash = "a348cac6a82b65dd907d857f1893fb44d724cd3d912975fb7325253eb7e7503a"
+hash = "6f04f2ea4d1325c80f94ea0add96a6a480dfe7eee9e1770c61a1a48c0ee54f3c"
 metafile = true
 
 [[files]]
@@ -879,7 +879,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "093bdddfd69509b986e8aa8fd2769f15b153a55d00bd790124d09723fd2ad9d2"
+hash = "0ac5adf3efa6fe48e65b170b22616e6fd801415712f87c86a54c8fee812c5812"
 metafile = true
 
 [[files]]
@@ -909,7 +909,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "bda5ebae56f29e29c839492b949cab052d7beec4c6149dd1540a414769ec2a1f"
+hash = "df60c560c25e3711196c4969850f3a44e82c24feb80817368abda454c3112c98"
 metafile = true
 
 [[files]]
@@ -1074,7 +1074,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4c746c3906271d57039e8216cbf7324ca413e10ce85f73e4aaa1e4c17958736a"
+hash = "e6153aab072571a220db10648db68e7678c1f735c5f5e8b6e8497ad5e013adc2"
 metafile = true
 
 [[files]]
@@ -1134,7 +1134,7 @@ metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
-hash = "16275ed48ad0c9e96cd31991242747d4850ef687f25b1744e44b14954c9d3c72"
+hash = "daeec6e32a564883d796749c66e372463b2ecadf45d95e7b05f4e984cda80d91"
 metafile = true
 
 [[files]]
