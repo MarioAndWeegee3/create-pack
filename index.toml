@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "b066bbf1fd98c8ec52dfb0d9f041572b4d1680ddf33932266ce334800891338d"
+hash = "706924659dac92dc50b584b1ecf8f90ba628ede1e029d8642ca4aaec4d9eb3d5"
 metafile = true
 
 [[files]]
@@ -694,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a31d322db7fc41eeb9ce86c63d5a048c334c929b6e586eefe56565cb43c3056c"
+hash = "72b3ed45f236d4528817b4022ba711bb8379dc39b5901b6dec7ae88e01d8c52b"
 metafile = true
 
 [[files]]
@@ -739,7 +739,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b50e20549a820d067ba78729ff9612f45ca69356698de1c1e2838ae09ab4c63f"
+hash = "66023ec6fd9d24094d04daa9d94d7f8fee950ac4f4bcd56aa08c0ad394678d7f"
 metafile = true
 
 [[files]]
@@ -779,7 +779,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "b15da0d3592744b66992ffa27c6d8938e175806a93bb85d6785a0b4bfc651da4"
+hash = "13e29d77df241c50b48cdcd9df4f6931709df6b2e8d1b718bf5ff7dbf5551514"
 metafile = true
 
 [[files]]
@@ -879,7 +879,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0ac5adf3efa6fe48e65b170b22616e6fd801415712f87c86a54c8fee812c5812"
+hash = "119035e5e134be5871ff9a61f13db4bd52e3ac48dbe9e0690e7c58c9510cd11c"
 metafile = true
 
 [[files]]
@@ -1054,12 +1054,12 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "df431dc0ae8c16477fd51c5b40cfd032d11072cfbd8c9f06a69356cacc1807c4"
+hash = "937ed3549561b9f3f899294571f711b1849796d4ca3c29401f2006de9dce5451"
 metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "f7957b69872ee26bdaa1a9db1f880c4d65eefde73ec291f30c0765fe6198b808"
+hash = "4f0b333b8e7563bddd287a53974acff42109275f35c42931b8674e0b0f0c10a9"
 metafile = true
 
 [[files]]
@@ -1074,7 +1074,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e6153aab072571a220db10648db68e7678c1f735c5f5e8b6e8497ad5e013adc2"
+hash = "fbd683a3cebf72c492a08411c32153d2214977c1e6ad0daca6851a656e425ce8"
 metafile = true
 
 [[files]]
