@@ -574,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "10841bfee1d7ad02433dd48297d4ba5dd4bae64338e4f599bf4bfe510ddc1b29"
+hash = "27c25a1300addaf346616cfc97e4c1004f438e64b97d8ae73dfb9b3ea5e19de9"
 metafile = true
 
 [[files]]
@@ -719,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinitybuttons.pw.toml"
-hash = "9390866ca66d509916b91da07e5ae95ac5dd4c64dad056ba7f22939e33f87fb3"
+hash = "a38951a0b69abdb5e34d596b2728099fc335381526d507a1337dc51dfa6dc4a2"
 metafile = true
 
 [[files]]
@@ -949,7 +949,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-minus.pw.toml"
-hash = "6b31a91a652ddcd77f2aa5e9c5310af822e34509be8254765ef4acc13d166fd6"
+hash = "01de3298ca79bf4d2f2f29d6ef36b77c359c32b699ea0581c6487ec2930b2c70"
 metafile = true
 
 [[files]]
@@ -1054,7 +1054,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "937ed3549561b9f3f899294571f711b1849796d4ca3c29401f2006de9dce5451"
+hash = "4a8cfad012c003c2f3ab4972294dd86a050ff3ca539277fcc5e99950c8dfb473"
 metafile = true
 
 [[files]]
@@ -1074,7 +1074,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "fbd683a3cebf72c492a08411c32153d2214977c1e6ad0daca6851a656e425ce8"
+hash = "5749ef44219a75c180d295018c6ebf48d96256b20f98121fa9ac3257fadcb849"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Infinity Buttons"
-filename = "infinitybuttons-3.1.0-mc1.19.2.jar"
+filename = "infinitybuttons-4.0.1-mc1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2raGoXFz/versions/aXq7XAzr/infinitybuttons-3.1.0-mc1.19.2.jar"
+url = "https://cdn.modrinth.com/data/2raGoXFz/versions/CVoQt2ql/infinitybuttons-4.0.1-mc1.19.2.jar"
 hash-format = "sha1"
-hash = "8458cae77b875cab613b5a37307a3a3bce398753"
+hash = "c3a8c1492a3b6ccaceb088125a1182817ac9489d"
 
 [update]
 [update.modrinth]
 mod-id = "2raGoXFz"
-version = "aXq7XAzr"
+version = "CVoQt2ql"
