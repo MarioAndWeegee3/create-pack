@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "1458e4909039fdd41aeb1d7cc7c82fa6def77a48b29ab45f99a9248e05f1e8e1"
+hash = "85177d5ff0334af62a87ae4ec1b175ecbbd478604f99474cf27e84663a52d551"
 metafile = true
 
 [[files]]
@@ -694,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "72b3ed45f236d4528817b4022ba711bb8379dc39b5901b6dec7ae88e01d8c52b"
+hash = "0e9c1ac6fc821d1683d834ecbbdd4122980f0bf4599c9731a886cbb8006ce620"
 metafile = true
 
 [[files]]
@@ -779,7 +779,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "13e29d77df241c50b48cdcd9df4f6931709df6b2e8d1b718bf5ff7dbf5551514"
+hash = "4d688a9a971903257cc791557f0a466649a3e344272c322e2976762c6ed94e8a"
 metafile = true
 
 [[files]]
@@ -1074,7 +1074,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "5749ef44219a75c180d295018c6ebf48d96256b20f98121fa9ac3257fadcb849"
+hash = "050db6f19eb9b3fff9a76c2ea604b6bd54f28da8ae4b7398e134c1650672a84f"
 metafile = true
 
 [[files]]
@@ -1144,7 +1144,7 @@ metafile = true
 
 [[files]]
 file = "mods/suggestion-tweaker.pw.toml"
-hash = "3e8420ff17d3359e2449e2ec24809c3eb63a253baa8f57a0f068b227a2a61b86"
+hash = "89038552efaa5f2bd7de00539374c67d5e3d15228cd4e26888dce82aa10f06d6"
 metafile = true
 
 [[files]]
@@ -1209,7 +1209,7 @@ metafile = true
 
 [[files]]
 file = "mods/wdmgslt.pw.toml"
-hash = "8b573a7962316028e8ad10fd7386ce2e03569aa9258c5624a24490f3b068418e"
+hash = "9afc2e2eb5faaea601f9eab415ea2b43f058ccbcb5c0ebe6814e0ba63b69362a"
 metafile = true
 
 [[files]]
